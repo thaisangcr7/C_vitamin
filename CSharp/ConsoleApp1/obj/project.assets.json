@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sangth/Desktop/DEV/CSharp/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/Users/sangth/Desktop/DEV/CSharp/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/Users/sangth/.nuget/packages/",
-      "outputPath": "/Users/sangth/Desktop/DEV/CSharp/ConsoleApp1/obj/",
+      "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sangth/.nuget/NuGet/NuGet.Config"
