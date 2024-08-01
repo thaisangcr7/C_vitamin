@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/C_vitamin_p1/C_vitamin_p1/bin/Debug/net8.0/C_vitamin_p1
+/Users/sangth/Desktop/DEV/C_vitamin/C_vitamin_p1/C_vitamin_p1/bin/Debug/net8.0/C_vitamin_p1.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/C_vitamin_p1/C_vitamin_p1/bin/Debug/net8.0/C_vitamin_p1.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/C_vitamin_p1/C_vitamin_p1/bin/Debug/net8.0/C_vitamin_p1.dll
+/Users/sangth/Desktop/DEV/C_vitamin/C_vitamin_p1/C_vitamin_p1/bin/Debug/net8.0/C_vitamin_p1.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/C_vitamin_p1/C_vitamin_p1/obj/Debug/net8.0/C_vitamin_p1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/C_vitamin_p1/C_vitamin_p1/obj/Debug/net8.0/C_vitamin_p1.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/C_vitamin_p1/C_vitamin_p1/obj/Debug/net8.0/C_vitamin_p1.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/C_vitamin_p1/C_vitamin_p1/obj/Debug/net8.0/C_vitamin_p1.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/C_vitamin_p1/C_vitamin_p1/obj/Debug/net8.0/C_vitamin_p1.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/C_vitamin_p1/C_vitamin_p1/obj/Debug/net8.0/C_vitamin_p1.dll
+/Users/sangth/Desktop/DEV/C_vitamin/C_vitamin_p1/C_vitamin_p1/obj/Debug/net8.0/refint/C_vitamin_p1.dll
+/Users/sangth/Desktop/DEV/C_vitamin/C_vitamin_p1/C_vitamin_p1/obj/Debug/net8.0/C_vitamin_p1.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/C_vitamin_p1/C_vitamin_p1/obj/Debug/net8.0/C_vitamin_p1.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/C_vitamin_p1/C_vitamin_p1/obj/Debug/net8.0/ref/C_vitamin_p1.dll
