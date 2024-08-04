@@ -4,7 +4,12 @@ class Program
 {
     static void Main(string[] args)
     {
+        FizzBuzz fizzBuzz = new FizzBuzz();
+        fizzBuzz.Run(10000);
+
         Console.WriteLine("Hello, World!");
         
     }
 }
+
+
