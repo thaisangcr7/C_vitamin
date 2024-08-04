@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/bin/Debug/net8.0/CSharp_Mini_8hrs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/bin/Debug/net8.0/CSharp_Mini_8hrs.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/bin/Debug/net8.0/CSharp_Mini_8hrs.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/bin/Debug/net8.0/CSharp_Mini_8hrs.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/bin/Debug/net8.0/CSharp_Mini_8hrs.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/obj/Debug/net8.0/CSharp_Mini_8hrs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/obj/Debug/net8.0/CSharp_Mini_8hrs.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/obj/Debug/net8.0/CSharp_Mini_8hrs.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/obj/Debug/net8.0/CSharp_Mini_8hrs.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/obj/Debug/net8.0/CSharp_Mini_8hrs.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/obj/Debug/net8.0/CSharp_Mini_8hrs.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/obj/Debug/net8.0/refint/CSharp_Mini_8hrs.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/obj/Debug/net8.0/CSharp_Mini_8hrs.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/obj/Debug/net8.0/CSharp_Mini_8hrs.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/obj/Debug/net8.0/ref/CSharp_Mini_8hrs.dll
