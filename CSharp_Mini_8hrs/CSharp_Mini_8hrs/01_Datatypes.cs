@@ -1,12 +1,28 @@
-﻿    namespace CSharp_Mini_8hrs;
+﻿using System;
 
+namespace CSharp_Mini_8hrs
+{
     public class _01_Datatypes
 
     {
         public void Run()
         {
         
+        /// NUMBER DATATYPES
         // example of some datatype operation
+                /*
+        int x = 10;
+        int y = 10;
+        int z = 30;
+        */
+
+        /* int x = 10, y = 20, z = 30; */
+
+        /*
+        int 
+            x = 10,
+            y = 20,
+            x = 30; */
 
         int number = 10;
         string text = "sanple text";
@@ -44,6 +60,34 @@
         System.Console.WriteLine(decimal.MaxValue);
         System.Console.WriteLine(decimal.MinValue);
 
+        /*
+        int x = 10;
+        int y = 10;
+        int z = 30;
+        */
+
+        /* int x = 10, y = 20, z = 30; */
+
+        /*
+        int 
+            x = 10,
+            y = 20,
+            x = 30; */
+
+  
+
+        // Demonstrate text-based data types
+        string name2 = "aba"; // This is a string with multiple characters
+        char name3 = 'a';     // This is a single character
+        Console.WriteLine("String: " + name2);
+        Console.WriteLine("Char: " + name3);
+    
         }
-    }
+   }  
+}
+
+
+
+
+    
 
