@@ -4,9 +4,19 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
 
-            System.Console.ReadLine();
+
+            // new class for datatype
+
+            _01_Datatypes datatype = new _01_Datatypes();
+            datatype.Run();
+
+            Console.WriteLine("Let's get some C, Sang");
+
+            // keep console open until a key is pressed
+            Console.ReadLine();
+            
+
         }
     }
 
