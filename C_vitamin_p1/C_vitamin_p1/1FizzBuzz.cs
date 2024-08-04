@@ -21,16 +21,19 @@ namespace C_vitamin_p1
         {
             for (int i = 1; i <= num; i++)
             {
-                
-                // Print FizzBuzz if its divisible by 15
-                if (i % 15 == 0)
+                if (i % 3 == 0 && i % 5 == 0)
                 {
                     Console.WriteLine("FizzBuzz");
                 }
-                // Print Fizz if divisible by 3
-                // 4 % 3 = 1
-                // 5 % 3 = 2
-                // 6 % 3 = 0
+                else if (i % 3 != 0 && i % 5 != 0)
+                {
+                    Console.WriteLine(i);
+                }
+                // Print FizzBuzz if its divisible by 15
+                else if (i % 15 == 0)
+                {
+                    Console.WriteLine("FizzBuzz");
+                }
                 else if (i % 3 == 0)
                 {
                     Console.WriteLine("Fizz");
