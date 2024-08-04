@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C_vitamin_p1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+424f79178f1c11acb7d2047946b56e8bcd0da677")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2db3e9d60d60e29eb2d2a3c38fcd3a26dc4ef49")]
 [assembly: System.Reflection.AssemblyProductAttribute("C_vitamin_p1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C_vitamin_p1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
