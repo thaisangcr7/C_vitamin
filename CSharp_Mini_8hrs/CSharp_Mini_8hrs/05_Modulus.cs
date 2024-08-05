@@ -16,7 +16,8 @@ namespace CSharp_Mini_8hrs
             // 12 % 2 = 0
             // 13 % 2 = 1
             // 1000 % 90 = 10
-            // 100 % 90 = 1
+            // 100 % 90 = 10
+            // 71 % 90 = 1
             int firstNum = 10;
             int secondNum = 3;
             System.Console.WriteLine(firstNum % secondNum);

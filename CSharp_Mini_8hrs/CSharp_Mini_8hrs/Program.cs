@@ -26,6 +26,15 @@ namespace CSharp_Mini_8hrs
             _05_Modulus modulus = new _05_Modulus();
             modulus.run();
 
+            // 06 VarKeyWord
+            _06_VarKeyword varkeyword = new _06_VarKeyword();
+            varkeyword.run();
+
+            // 07 Constant
+            _07_constant constant = new _07_constant();
+            constant.run();
+
+
             Console.WriteLine("Let's get some C, Sang");
             // Keep console open until a key is pressed
             Console.ReadLine();           
