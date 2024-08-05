@@ -24,7 +24,7 @@ namespace CSharp_Mini_8hrs
             System.Console.WriteLine(age);
 
             age += 10;
-            System.Console.WriteLine(age);
+            System.Console.WriteLine(age);                      
 
             age -= 10;
             System.Console.WriteLine(age);
@@ -32,6 +32,11 @@ namespace CSharp_Mini_8hrs
             String name = "Sang ";
             name += "is programing to get more Vitamin Csharp";
             System.Console.WriteLine(name);
+
+            int i = 0;
+            System.Console.WriteLine(++i);
+            System.Console.WriteLine(i);
+
 
         }
     }

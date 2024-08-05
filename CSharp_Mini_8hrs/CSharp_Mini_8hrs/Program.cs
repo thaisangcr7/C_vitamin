@@ -10,7 +10,7 @@ namespace CSharp_Mini_8hrs
             _01_Datatypes datatype = new _01_Datatypes();
             datatype.Run(); // Runs the demonstration of data types
 
-            // 02 Create a new instance of the _02_ConvertingStringToNumbers class
+            // 02 Create a new instance of the _02_ConvertingStringToNumbe}rs class
             _02_ConvertingStringToNumbers conv = new _02_ConvertingStringToNumbers();
             conv.run(); // Runs the demonstration of string-to-number conversion
 
@@ -22,8 +22,11 @@ namespace CSharp_Mini_8hrs
             _04_Operations Operations = new _04_Operations();
             Operations.run();
 
-            Console.WriteLine("Let's get some C, Sang");
+            // 05 Modulus
+            _05_Modulus modulus = new _05_Modulus();
+            modulus.run();
 
+            Console.WriteLine("Let's get some C, Sang");
             // Keep console open until a key is pressed
             Console.ReadLine();           
 
