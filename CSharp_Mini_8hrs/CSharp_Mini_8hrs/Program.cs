@@ -6,18 +6,26 @@ namespace CSharp_Mini_8hrs
     {
         static void Main(string[] args)
         {
-
-
-            // new class for datatype
-
+            // 01 Create a new instance of the _01_Datatypes class
             _01_Datatypes datatype = new _01_Datatypes();
-            datatype.Run();
+            datatype.Run(); // Runs the demonstration of data types
+
+            // 02 Create a new instance of the _02_ConvertingStringToNumbers class
+            _02_ConvertingStringToNumbers conv = new _02_ConvertingStringToNumbers();
+            conv.run(); // Runs the demonstration of string-to-number conversion
+
+            // 03 Boolean 
+            _03_Bool bools = new _03_Bool();
+            bools.run();
+
+            // 04 Operations
+            _04_Operations Operations = new _04_Operations();
+            Operations.run();
 
             Console.WriteLine("Let's get some C, Sang");
 
-            // keep console open until a key is pressed
-            Console.ReadLine();
-            
+            // Keep console open until a key is pressed
+            Console.ReadLine();           
 
         }
     }
