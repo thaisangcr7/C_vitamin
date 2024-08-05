@@ -29,7 +29,9 @@ namespace CSharp_Mini_8hrs
             age -= 10;
             System.Console.WriteLine(age);
 
-
+            String name = "Sang ";
+            name += "is programing to get more Vitamin Csharp";
+            System.Console.WriteLine(name);
 
         }
     }
