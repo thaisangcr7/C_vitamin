@@ -34,6 +34,17 @@ namespace CSharp_Mini_8hrs
             _07_constant constant = new _07_constant();
             constant.run();
 
+            // 08 Storing User Data _ Excercise
+            _08_StoringUserData_Exercise storinguserdata = new _08_StoringUserData_Exercise();
+            storinguserdata.run();
+
+            // 09 Odd and Even Checker
+            _09_Odd_Even OddEven = new _09_Odd_Even();
+            OddEven.run();
+
+            // 10 Console Input and Oupt
+            _10_Console_InputOutput inputOutput = new _10_Console_InputOutput();
+            inputOutput.run();
 
             Console.WriteLine("Let's get some C, Sang");
             // Keep console open until a key is pressed
