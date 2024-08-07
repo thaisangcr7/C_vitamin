@@ -23,14 +23,26 @@ namespace CSharp_Mini_8hrs
             string age = Console.ReadLine();
             System.Console.WriteLine(age);
             */
+
+            /*
             Console.Write("Enter your name here: ");
-            var name = Console.ReadLine();
+            string name = Console.ReadLine();
             Console.WriteLine("Enter your name here: " + name);
             
             Console.Write("Enter your age: ");
-            var age = Console.ReadLine();
+            string age = Console.ReadLine();
             Console.WriteLine("Enter your age: " + age);
+            */
+
+            /*
+            Console.Write("Enter your name here: ");
+            var name1 = Console.ReadLine();
+            Console.WriteLine("Enter your name here: " + name1);
             
+            Console.Write("Enter your age: ");
+            var age2 = Console.ReadLine();
+            Console.WriteLine("Enter your age: " + age2);          
+            */
 
         }
             

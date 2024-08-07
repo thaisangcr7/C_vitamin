@@ -46,6 +46,11 @@ namespace CSharp_Mini_8hrs
             _10_Console_InputOutput inputOutput = new _10_Console_InputOutput();
             inputOutput.run();
 
+            // 11 If Statement
+            _11_If_Statement if_Statement = new _11_If_Statement();
+            if_Statement.run();
+
+
             Console.WriteLine("Let's get some C, Sang");
             // Keep console open until a key is pressed
             Console.ReadLine();           
