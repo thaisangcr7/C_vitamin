@@ -1,16 +1,16 @@
-﻿using System.Security.Cryptography;
+﻿using System;
 
-namespace Vitamin_C_Funda;
-
-class Program
+namespace Vitamin_C_Funda
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+        _3_Learning_C__Syntax syntax = new _3_Learning_C__Syntax();
+        syntax.run();
 
-        Console.WriteLine("Please enter your name: ");
-
-        string name = Console.ReadLine();
-        Console.WriteLine("Hello " + name);
+        Console.WriteLine("Let's get some C, Sang");
+        Console.ReadLine();       
+        }
     }
 }
