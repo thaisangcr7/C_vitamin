@@ -17,7 +17,6 @@ namespace Vitamin_C_Funda
                 string? name = Console.ReadLine(); // using console.readline is to accept intput from the console.
                 Console.WriteLine("Hello " + name);
 
-                Console.WriteLine("Please enter your age: ");
                 string? ageInput = Console.ReadLine();
                 //int age = Convert.ToInt32(ageInput);
                 //int age = int.Parse(ageInput);
@@ -39,7 +38,7 @@ namespace Vitamin_C_Funda
                 */ // 1.1 ------
 
                 // 1.2 -----
-
+                /*
                 int monthlyWage = 1234;
                 int months = 12; 
                 int bonuses = 1000;
@@ -59,6 +58,7 @@ namespace Vitamin_C_Funda
                 System.Console.WriteLine(annual);
                 System.Console.WriteLine(total);
 
+                Console.WriteLine("Please enter your age: ");
                 double currentmonthlywage = hoursWorked * rateperhour + bonuses;
                 System.Console.WriteLine("Current Montly Wage" + currentmonthlywage);
                 numberofemployee--;
@@ -94,22 +94,26 @@ namespace Vitamin_C_Funda
 
                 System.Console.WriteLine(startHour);
                 System.Console.WriteLine(endHour);
-                 System.Console.WriteLine(startHour.ToLongDateString());
+                System.Console.WriteLine(startHour.ToLongDateString());
                 System.Console.WriteLine(endHour.ToShortTimeString());
+                */
 
+                int NumberOfHourWorked = 165;
+                long VeryLongMonth = NumberOfHourWorked;
 
+                double d = 123456789.0;
+                int x = (int)d;
 
+                int IntVeryLongMonth = (int)VeryLongMonth;
 
 
 
 
                 Console.ReadLine();
 
-
     
 
             }
-
 
         }
 }
