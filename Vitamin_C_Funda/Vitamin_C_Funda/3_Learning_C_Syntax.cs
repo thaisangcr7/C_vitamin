@@ -97,7 +97,7 @@ namespace Vitamin_C_Funda
                 System.Console.WriteLine(startHour.ToLongDateString());
                 System.Console.WriteLine(endHour.ToShortTimeString());
                 */
-
+                /*
                 int NumberOfHourWorked = 165;
                 long VeryLongMonth = NumberOfHourWorked;
 
@@ -110,6 +110,7 @@ namespace Vitamin_C_Funda
 
 
                 Console.ReadLine();
+                */
 
     
 
