@@ -89,6 +89,9 @@ namespace Vitamin_C_Funda
                 break;
             }
             */
+            // Switch Statement Example
+            
+            int age = 25;
             switch (age)
             {
                 case int n when n < 18:
