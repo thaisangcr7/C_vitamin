@@ -34,7 +34,7 @@ namespace Vitamin_C_Funda
                 System.Console.WriteLine("Age is between 18 and 65: " + c);
 
 
-                // Relational Operations
+// Relational Operations ------------------
                 // Evaluating if 'age1' is greater than or equal to 18 AND 'age2' is less than or equal to 65
                 // Since 'age1' is less than 18, the entire expression will be False
                 // Evaluating if 'age1' is greater than or equal to 18 OR 'age2' is less than or equal to 65
@@ -48,7 +48,7 @@ namespace Vitamin_C_Funda
                 */
 
                 /*
-                //  If Statement
+//  If Statement------------------------
                 
                 Console.WriteLine("Enter the age of the new candidate: ");
                 string? input = Console.ReadLine();
@@ -73,7 +73,7 @@ namespace Vitamin_C_Funda
                             }
                     }
                     */
-            // Switch Statement
+// Switch Statement--------------------
             /*
             Switch(expression)
             {
@@ -89,7 +89,9 @@ namespace Vitamin_C_Funda
                 break;
             }
             */
-            // Switch Statement Example
+            /*
+            // Switch Statement Example 
+            // note: Swtich works with most of data types, but not Float and double
             
             int age = 25;
             switch (age)
@@ -98,16 +100,108 @@ namespace Vitamin_C_Funda
                 Console.WriteLine("Too young to apply for job");
                 Console.WriteLine("Send email to candidate");
                 break;
+
                 case int n when n > 65:
                 Console.WriteLine("Too old to apply for job");
                 Console.WriteLine("Send email to candidate");
                 break;
+
                 case int n when n == 42:
                 default:
                 Console.WriteLine("Candidate is eligible for the job");
                 break;
-
             }
+            */
+
+// Iterations: -----------------------
+            //continue executing a task(looping)
+            // often used in combination with counter
+            // ask input until stop is reached
+            // keep reading files from disk
+            // 1. For Loop: continue executing a task(looping)
+            // 2. While Loop: continue executing a task(looping) until a condition is met
+            // 3. Do-while
+
+            // Excercise:
+            /*
+// while loop ----------------------
+            // Asking user to enter a value
+            Console.WriteLine("Enter a value: ");
+            string? input = Console.ReadLine();
+
+            //Try to parse the input into an integer
+            if (int.TryParse(input, out int max))
+            
+            {
+                int i = 0;
+                while (i < max)
+                {
+                    Console.WriteLine(i);
+                    i++;
+                }
+                Console.WriteLine("Loop finishes");
+            }
+
+            */
+            /*
+// Switch with While Loop
+            Console.WriteLine("choose the action you want to do: ");
+            Console.WriteLine("1. Add employee");
+            Console.WriteLine("2. update employee");
+            Console.WriteLine("3. delete employee");
+            Console.WriteLine("99. Exit application");
+
+            string? selectionAction = System.Console.ReadLine();
+
+            while (selectionAction != "99")
+            {
+                switch (selectionAction)
+                {
+                    case "1":
+                    Console.WriteLine("Add employee");
+                    break;
+                    case "2":
+                    Console.WriteLine("update employee");
+                    break;
+                    case "3":
+                    Console.WriteLine("3. delete employee");
+                    break;
+                    default:
+                    System.Console.WriteLine("invalid input");
+                    break;
+                }
+                Console.WriteLine("choose the action you want to do: ");
+                Console.WriteLine("1. Add employee");
+                Console.WriteLine("2. update employee");
+                Console.WriteLine("3. delete employee");
+                Console.WriteLine("99. Exit application");
+                selectionAction = System.Console.ReadLine();
+            }
+                Console.WriteLine("Closing Application");
+            */
+            //
+// While Loop - nested loop
+// Nested While Loop Example
+// =========================
+// This code will print the values of two counters, i and j, to the console.
+// The outer loop will iterate 10 times, and for each iteration, the inner loop will iterate 10 times.
+            // Initialize counters
+            int i = 0; // outer loop counter
+            int j = 0; // inner loop counter
+        
+            // Outer loop
+            while (i <10)
+                {
+                    // Inner loop
+                    while (j<10) // loop will interate 10 times for each outer loop interation
+                    {
+                        // Print current values of i and j to console
+                        Console.WriteLine("i: " + i + " j: " + j);
+                        j++; // increment inner loop counter
+                    }
+                    j = 0; // reset inner loop counter for next outer loop iteration
+                    i++; // increment outer loop counter
+                }    
 
 
                 Console.ReadLine();
