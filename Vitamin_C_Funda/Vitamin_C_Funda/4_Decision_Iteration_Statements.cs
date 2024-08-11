@@ -179,7 +179,8 @@ namespace Vitamin_C_Funda
             }
                 Console.WriteLine("Closing Application");
             */
-            //
+            
+            /* //
 // While Loop - nested loop
 // Nested While Loop Example
 // =========================
@@ -202,6 +203,98 @@ namespace Vitamin_C_Funda
                     j = 0; // reset inner loop counter for next outer loop iteration
                     i++; // increment outer loop counter
                 }    
+                */
+                // while (true)
+                // {
+                //     System.Console.WriteLine(DateTime.Now);
+                // }
+
+// Create do do while loop
+// ======================
+                // int i = 0;
+                // do 
+                // {
+                //     System.Console.WriteLine(i);
+                //     i++;
+                // }
+                // while (i<5);
+/*
+// example 
+// if it is 99 do not go through the switch, if we find a match then go into the switch ()
+// if we do not find a match then go into the default
+// switch (selectionAction)
+                string? selectedAction = Console.ReadLine();
+                do 
+                {
+                    Console.WriteLine("choose the action you want to do: ");
+                    Console.WriteLine("1. Add employee");
+                    Console.WriteLine("2. update employee");
+                    Console.WriteLine("3. delete employee");
+                    Console.WriteLine("99. Exit application");
+                    
+                    selectedAction = Console.ReadLine();
+
+                    switch (selectedAction)
+                        {
+                            case "1":
+                            // Add employee
+                            Console.WriteLine("Enter employee name:");
+                            break;
+                            case "2":
+                            // update employee
+                            Console.WriteLine("Enter employee name:");
+                            break;
+                            case "3":
+                            // delete employee
+                            Console.WriteLine("Enter employee name:");
+                            break;
+                            case "99":
+                            // Exit application
+                            Console.WriteLine("Exiting application");
+                            break;
+                            default:
+                            // if we do not find a match then go into the default
+                            Console.WriteLine("Invalid choice");
+                            break;
+                        }
+                } while (selectedAction != "99");
+                        
+*/
+/*
+// For loop
+// for (int i = 0; i < 5; i++)
+// {
+//     Console.WriteLine(i);
+// }
+// For each loop
+// int[] numbers = { 1, 2, 3, 4, 5
+// };
+
+                // For Loop
+                // for (int i =0; i < 10; i += 2)
+                // {
+                //     Console.WriteLine(i);
+                // }
+                //
+                // for (int i = 0; i < 10; i++)
+                // {
+                //     System.Console.WriteLine(i);
+                // }
+                
+                System.Console.WriteLine("Enter a value: ");
+                int max = int.Parse(Console.ReadLine());
+
+                for (int i = 0; i < max; i++)
+                {
+                    if (i ==5)
+                        {
+                        System.Console.WriteLine("Bingo! " + i + " was found!");
+                        continue;
+                        }
+                    System.Console.WriteLine(i);
+                }    
+*/
+
 
 
                 Console.ReadLine();
