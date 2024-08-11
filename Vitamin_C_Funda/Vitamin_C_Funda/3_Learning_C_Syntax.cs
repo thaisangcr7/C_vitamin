@@ -1,6 +1,5 @@
 using System;
 
-
 namespace Vitamin_C_Funda
 {
     public class _3_Learning_C__Syntax

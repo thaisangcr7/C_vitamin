@@ -1,9 +1,4 @@
 using System;
-using System.ComponentModel;
-using System.Runtime.Serialization;
-using System.Security.AccessControl;
-using System.Security.Cryptography;
-
 
 namespace Vitamin_C_Funda
 {
@@ -297,7 +292,7 @@ namespace Vitamin_C_Funda
 
 
 
-                Console.ReadLine();
+ //               Console.ReadLine();
 
             }
 

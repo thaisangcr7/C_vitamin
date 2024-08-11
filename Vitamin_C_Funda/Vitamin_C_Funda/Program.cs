@@ -15,6 +15,9 @@ namespace Vitamin_C_Funda
             _4_Decision_Iteration_Statements statement = new _4_Decision_Iteration_Statements();
             statement.run();
             
+            // Section 5
+            _5_Using_Methods methods = new _5_Using_Methods();
+            methods.run();
 
             Console.WriteLine("Let's get some C, Sang");
             Console.ReadLine();   

@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Vitamin_C_Funda",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Vitamin_C_Funda/Vitamin_C_Funda.csproj",
+            "launchConfigurationId": "TargetFramework=;Vitamin_C_Funda"
+        }
+    ]
+}
