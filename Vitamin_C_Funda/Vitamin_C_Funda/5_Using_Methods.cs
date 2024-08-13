@@ -1,4 +1,5 @@
 using System;
+using System.Security.Cryptography.X509Certificates;
 
 
 namespace Vitamin_C_Funda
@@ -43,7 +44,7 @@ namespace Vitamin_C_Funda
                 //     System.Console.WriteLine($"Yearly wage: {monthlyWage * numberofmonthworked}");
                 // }
                 // exxample:
-
+/*
                 int amount = 2000;
                 int months = 12;
 
@@ -59,7 +60,8 @@ namespace Vitamin_C_Funda
                         return monthlyWage * (numberofmonthworked +1);
                     return monthlyWage * numberofmonthworked;
                 }
-                
+   */
+                //static int CalculationYearlyWageExpresssionBodied(int montlyWage, int numberofmonthworked, int bonus) => monthlyWage * numberofmonthworked + bonus;          
 
                 // Console.ReadLine();
 

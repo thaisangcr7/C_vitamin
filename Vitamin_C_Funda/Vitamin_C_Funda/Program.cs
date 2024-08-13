@@ -19,6 +19,10 @@ namespace Vitamin_C_Funda
             _5_Using_Methods methods = new _5_Using_Methods();
             methods.run();
 
+            // section 6
+            _6_String workingWithString = new _6_String();
+            workingWithString.run();
+
             Console.WriteLine("Let's get some C, Sang");
             Console.ReadLine();   
 
