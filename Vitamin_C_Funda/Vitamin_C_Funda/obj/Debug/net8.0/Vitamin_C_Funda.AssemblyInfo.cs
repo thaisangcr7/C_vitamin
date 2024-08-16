@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vitamin_C_Funda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8b81d3f5811d0028882c856495ecec416034a57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cf1b90d2e208715951edd978b0f34343406406b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vitamin_C_Funda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vitamin_C_Funda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
