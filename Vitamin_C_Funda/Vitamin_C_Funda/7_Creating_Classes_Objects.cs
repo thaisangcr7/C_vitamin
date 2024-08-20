@@ -48,30 +48,30 @@ namespace Vitamin_C_Funda
         {
             //numberOfHoursWorked++;
             //System.Console.WriteLine($"{firstname} {lastname} has worked for {numberOfHoursWorked} Hour(s)!");
-            Performwork(minimalHoursWorkedUnit);
+            //Performwork(minimalHoursWorkedUnit);
 
         }
         // method 2 - method overloading
         public void Performwork(int numberOfHours) 
 
         {
-            // pass in the number of hours
-            numberOfHoursWorked += numberOfHours;
-            System.Console.WriteLine($"{firstname} {lastname} has worked for {numberOfHoursWorked} Hour(s)!");
+            // pass in the number of hourss
+            // numberOfHoursWorked += numberOfHours;
+            // System.Console.WriteLine($"{firstname} {lastname} has worked for {numberOfHoursWorked} Hour(s)!");
 
         }
 
         // method 3 - recieve a wage
-        public double RevieveWage(bool resetHours = true)
-        {
-            wage = numberOfHoursWorked * hourlyRate;
-            System.Console.WriteLine($"{firstname} {lastname} has recieved a wage of {wage} for {numberOfHoursWorked} hour(s).");
+        // public double RevieveWage(bool resetHours = true)
+        // {
+        //     wage = numberOfHoursWorked * hourlyRate;
+        //     System.Console.WriteLine($"{firstname} {lastname} has recieved a wage of {wage} for {numberOfHoursWorked} hour(s).");
 
-            if (resetHours)
-            numberOfHoursWorked = 0;
+        //     if (resetHours)
+        //     numberOfHoursWorked = 0;
             
-            return wage;
-        }
+        //     return wage;
+        // }
  //----------------
         // Adding a Constructor with parameters
         /*
@@ -87,7 +87,7 @@ namespace Vitamin_C_Funda
         employee.firstName = "Bethany"; // Changing a a field
         int wage = employee.receiveWage(); // Returining a value from a method  
 */
-
+/*
 // Adding a Constructor with parameters
         internal class Employee
         {
@@ -118,7 +118,7 @@ namespace Vitamin_C_Funda
     
         
         
-
+*/
 
 
     }
