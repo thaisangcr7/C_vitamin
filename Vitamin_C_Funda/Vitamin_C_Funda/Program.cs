@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 
 namespace Vitamin_C_Funda
@@ -72,14 +73,53 @@ namespace Vitamin_C_Funda
                 builder2.Append(i);
                 builder2.Append(" ");
             }
-            string listtest = builder2.ToString();
+            string listtest = builder2.ToString(); 
             System.Console.WriteLine(listtest); 
 
+            // Enum
+            // Enum Enum_employeetypes = new Enum();
+            // Enum_employeetypes.run();
+            //9 Array List
+            _9_Arrays_Lists Arrays_Lists = new _9_Arrays_Lists();
+            Arrays_Lists.Arrays_Lists_run();
 
+            int[] sampleArray1 = new int[5];
+            int[] sampleArray2 = new int[5]{1,2,3,4,5};
+            System.Console.WriteLine("How many employees IDs do you want to register?");
+            int length = int.Parse(Console.ReadLine()); 
+            int[] employeeIds = new int[length];
+            var testId = employeeIds[0];
 
+            // get value inside  the arrays
+            // for (int i = 0; i < length; i++)
+            // {
+            //     System.Console.WriteLine("Enter employee ID: ");
+            //     int id = int.Parse(Console.ReadLine()); // assume here that the user will 
+            //     //always enter an int value
+            //     employeeIds[i] = id;
+            // }
+            // for (int i = 0; i < employeeIds.Length; i++)
+            // {
+            //     System.Console.WriteLine($"ID {i + 1}: \t{employeeIds[i]}");
+            // }
 
+            //
+         
             Console.ReadLine();   
 
+
+            // // Types in .Net
+            // 1. Class
+            // 2. Struct
+            // 3. Interface
+            // 4. Enumeration
+            // 5. Delegate
+
+            /*
+            Value Types (Enumerations & Structs)
+            Reference Types (Classes, Interfaces & Delegates)
+            */
         }
+
     }
 }
