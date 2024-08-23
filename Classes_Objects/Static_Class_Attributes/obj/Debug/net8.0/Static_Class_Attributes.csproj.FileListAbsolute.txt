@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Class_Attributes/bin/Debug/net8.0/Static_Class_Attributes
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Class_Attributes/bin/Debug/net8.0/Static_Class_Attributes.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Class_Attributes/bin/Debug/net8.0/Static_Class_Attributes.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Class_Attributes/bin/Debug/net8.0/Static_Class_Attributes.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Class_Attributes/bin/Debug/net8.0/Static_Class_Attributes.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Class_Attributes/obj/Debug/net8.0/Static_Class_Attributes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Class_Attributes/obj/Debug/net8.0/Static_Class_Attributes.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Class_Attributes/obj/Debug/net8.0/Static_Class_Attributes.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Class_Attributes/obj/Debug/net8.0/Static_Class_Attributes.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Class_Attributes/obj/Debug/net8.0/Static_Class_Attributes.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Class_Attributes/obj/Debug/net8.0/Static_Class_Attributes.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Class_Attributes/obj/Debug/net8.0/refint/Static_Class_Attributes.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Class_Attributes/obj/Debug/net8.0/Static_Class_Attributes.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Class_Attributes/obj/Debug/net8.0/Static_Class_Attributes.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Class_Attributes/obj/Debug/net8.0/ref/Static_Class_Attributes.dll

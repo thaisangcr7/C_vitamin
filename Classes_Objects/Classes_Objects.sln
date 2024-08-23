@@ -19,6 +19,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Getters_Setters", "Getters_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Getters_Setters", "Getters_Setters\Getters_Setters.csproj", "{2D2F8FA4-CB98-4538-A4E6-58893E157EC3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Static_Class_Attributes", "Static_Class_Attributes", "{08DB186F-C6CC-4170-8C89-1E362E3D7742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_Class_Attributes", "Static_Class_Attributes\Static_Class_Attributes.csproj", "{7FD9EA88-E1FF-4B26-B267-BFE32D25FAFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,10 @@ Global
 		{2D2F8FA4-CB98-4538-A4E6-58893E157EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D2F8FA4-CB98-4538-A4E6-58893E157EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D2F8FA4-CB98-4538-A4E6-58893E157EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD9EA88-E1FF-4B26-B267-BFE32D25FAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD9EA88-E1FF-4B26-B267-BFE32D25FAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD9EA88-E1FF-4B26-B267-BFE32D25FAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD9EA88-E1FF-4B26-B267-BFE32D25FAFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,5 +61,6 @@ Global
 		{2419EC68-6BED-410E-AA95-31D3070B0B4F} = {45C68B08-C4D4-4FBD-A9C4-37A03DB3A2F7}
 		{365ECC27-2E08-45B8-BBE3-80AF5DB2D55C} = {AD357DD6-200F-4EBB-89C6-18CA14CD3A77}
 		{2D2F8FA4-CB98-4538-A4E6-58893E157EC3} = {A3B51FE9-DD6E-4808-AB8F-90AA882519F2}
+		{7FD9EA88-E1FF-4B26-B267-BFE32D25FAFA} = {08DB186F-C6CC-4170-8C89-1E362E3D7742}
 	EndGlobalSection
 EndGlobal
