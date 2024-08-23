@@ -5,7 +5,11 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_Objects", "Classes_Objects\Classes_Objects.csproj", "{D65F7CC9-2983-4EF0-B545-C95CDECF59E1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Constructors", "Constructors", "{45C68B08-C4D4-4FBD-A9C4-37A03DB3A2F7}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My_Supper_Bank", "My_Supper_Bank\My_Supper_Bank.csproj", "{6A62FE9E-1045-461A-B374-E0CD228A2C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors\Constructors.csproj", "{2419EC68-6BED-410E-AA95-31D3070B0B4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,8 +25,15 @@ Global
 		{6A62FE9E-1045-461A-B374-E0CD228A2C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A62FE9E-1045-461A-B374-E0CD228A2C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A62FE9E-1045-461A-B374-E0CD228A2C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2419EC68-6BED-410E-AA95-31D3070B0B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2419EC68-6BED-410E-AA95-31D3070B0B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2419EC68-6BED-410E-AA95-31D3070B0B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2419EC68-6BED-410E-AA95-31D3070B0B4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2419EC68-6BED-410E-AA95-31D3070B0B4F} = {45C68B08-C4D4-4FBD-A9C4-37A03DB3A2F7}
 	EndGlobalSection
 EndGlobal
