@@ -15,6 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Object_Methods", "Object_Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object_Methods", "Object_Methods\Object_Methods.csproj", "{365ECC27-2E08-45B8-BBE3-80AF5DB2D55C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Getters_Setters", "Getters_Setters", "{A3B51FE9-DD6E-4808-AB8F-90AA882519F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Getters_Setters", "Getters_Setters\Getters_Setters.csproj", "{2D2F8FA4-CB98-4538-A4E6-58893E157EC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +41,10 @@ Global
 		{365ECC27-2E08-45B8-BBE3-80AF5DB2D55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{365ECC27-2E08-45B8-BBE3-80AF5DB2D55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{365ECC27-2E08-45B8-BBE3-80AF5DB2D55C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D2F8FA4-CB98-4538-A4E6-58893E157EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2F8FA4-CB98-4538-A4E6-58893E157EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2F8FA4-CB98-4538-A4E6-58893E157EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2F8FA4-CB98-4538-A4E6-58893E157EC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,5 +52,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{2419EC68-6BED-410E-AA95-31D3070B0B4F} = {45C68B08-C4D4-4FBD-A9C4-37A03DB3A2F7}
 		{365ECC27-2E08-45B8-BBE3-80AF5DB2D55C} = {AD357DD6-200F-4EBB-89C6-18CA14CD3A77}
+		{2D2F8FA4-CB98-4538-A4E6-58893E157EC3} = {A3B51FE9-DD6E-4808-AB8F-90AA882519F2}
 	EndGlobalSection
 EndGlobal

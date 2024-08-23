@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Getters_Setters/bin/Debug/net8.0/Getters_Setters
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Getters_Setters/bin/Debug/net8.0/Getters_Setters.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Getters_Setters/bin/Debug/net8.0/Getters_Setters.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Getters_Setters/bin/Debug/net8.0/Getters_Setters.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Getters_Setters/bin/Debug/net8.0/Getters_Setters.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Getters_Setters/obj/Debug/net8.0/Getters_Setters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Getters_Setters/obj/Debug/net8.0/Getters_Setters.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Getters_Setters/obj/Debug/net8.0/Getters_Setters.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Getters_Setters/obj/Debug/net8.0/Getters_Setters.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Getters_Setters/obj/Debug/net8.0/Getters_Setters.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Getters_Setters/obj/Debug/net8.0/Getters_Setters.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Getters_Setters/obj/Debug/net8.0/refint/Getters_Setters.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Getters_Setters/obj/Debug/net8.0/Getters_Setters.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Getters_Setters/obj/Debug/net8.0/Getters_Setters.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Getters_Setters/obj/Debug/net8.0/ref/Getters_Setters.dll
