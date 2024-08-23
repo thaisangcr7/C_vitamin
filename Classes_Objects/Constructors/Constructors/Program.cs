@@ -6,6 +6,10 @@ class Program
     {
         // create a book objects - "the Class Book" tells us what the datetype is. the object is attual instant of the class 
         // book1 is a varibale that store the book objects
+
+        /*
+        
+        // the book1 and book2 are 2 objects = 8 lines of code
         Book book1 = new Book(); 
         book1.title = "Harry Potter"; // book1 here is object that store value 
         book1.author = "J.K. Rowling"; // book1 here is object that store value 
@@ -19,7 +23,19 @@ class Program
 
         System.Console.WriteLine(book1.title);
         System.Console.ReadLine();
-        
+        */
+
+//---------------      // CONSTUCTOR ---------------
+        Book book1 = new Book("Harry Potter", "J.K. Rowling", 400);
+        Book book2 = new Book("Lord of the Rings","Tolkien",700 );
+        Book book3 = new Book();
+
+        System.Console.WriteLine(book2.author);
+        System.Console.WriteLine(book1.title);
+
+        Console.ReadLine();
+
+
 
 
 
