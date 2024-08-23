@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My_Supper_Bank", "My_Supper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors\Constructors.csproj", "{2419EC68-6BED-410E-AA95-31D3070B0B4F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Object_Methods", "Object_Methods", "{AD357DD6-200F-4EBB-89C6-18CA14CD3A77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object_Methods", "Object_Methods\Object_Methods.csproj", "{365ECC27-2E08-45B8-BBE3-80AF5DB2D55C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,11 +33,16 @@ Global
 		{2419EC68-6BED-410E-AA95-31D3070B0B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2419EC68-6BED-410E-AA95-31D3070B0B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2419EC68-6BED-410E-AA95-31D3070B0B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365ECC27-2E08-45B8-BBE3-80AF5DB2D55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365ECC27-2E08-45B8-BBE3-80AF5DB2D55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365ECC27-2E08-45B8-BBE3-80AF5DB2D55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365ECC27-2E08-45B8-BBE3-80AF5DB2D55C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2419EC68-6BED-410E-AA95-31D3070B0B4F} = {45C68B08-C4D4-4FBD-A9C4-37A03DB3A2F7}
+		{365ECC27-2E08-45B8-BBE3-80AF5DB2D55C} = {AD357DD6-200F-4EBB-89C6-18CA14CD3A77}
 	EndGlobalSection
 EndGlobal

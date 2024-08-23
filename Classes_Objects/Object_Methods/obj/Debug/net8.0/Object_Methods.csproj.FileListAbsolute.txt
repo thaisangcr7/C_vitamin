@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Object_Methods/bin/Debug/net8.0/Object_Methods
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Object_Methods/bin/Debug/net8.0/Object_Methods.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Object_Methods/bin/Debug/net8.0/Object_Methods.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Object_Methods/bin/Debug/net8.0/Object_Methods.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Object_Methods/bin/Debug/net8.0/Object_Methods.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Object_Methods/obj/Debug/net8.0/Object_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Object_Methods/obj/Debug/net8.0/Object_Methods.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Object_Methods/obj/Debug/net8.0/Object_Methods.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Object_Methods/obj/Debug/net8.0/Object_Methods.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Object_Methods/obj/Debug/net8.0/Object_Methods.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Object_Methods/obj/Debug/net8.0/Object_Methods.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Object_Methods/obj/Debug/net8.0/refint/Object_Methods.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Object_Methods/obj/Debug/net8.0/Object_Methods.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Object_Methods/obj/Debug/net8.0/Object_Methods.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Object_Methods/obj/Debug/net8.0/ref/Object_Methods.dll
