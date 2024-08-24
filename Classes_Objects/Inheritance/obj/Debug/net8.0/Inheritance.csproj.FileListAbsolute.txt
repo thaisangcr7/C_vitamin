@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Inheritance/bin/Debug/net8.0/Inheritance
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Inheritance/bin/Debug/net8.0/Inheritance.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Inheritance/bin/Debug/net8.0/Inheritance.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Inheritance/bin/Debug/net8.0/Inheritance.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Inheritance/bin/Debug/net8.0/Inheritance.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Inheritance/obj/Debug/net8.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Inheritance/obj/Debug/net8.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Inheritance/obj/Debug/net8.0/Inheritance.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Inheritance/obj/Debug/net8.0/Inheritance.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Inheritance/obj/Debug/net8.0/refint/Inheritance.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Inheritance/obj/Debug/net8.0/Inheritance.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Inheritance/obj/Debug/net8.0/Inheritance.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Inheritance/obj/Debug/net8.0/ref/Inheritance.dll
