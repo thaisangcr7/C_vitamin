@@ -7,20 +7,20 @@ namespace CSharp_Mini_8hrs
     {
         public void Run()
         {
-        
+        /*
             /// NUMBER DATATYPES
             // example of some datatype operation
-                    /*
-            int x = 10;
-            int y = 10;
-            int z = 30;
-            */
-            /* int x = 10, y = 20, z = 30; */
-            /*
-            int 
-                x = 10,
-                y = 20,
-                x = 30; */
+                    
+            // int x = 10;
+            // int y = 10;
+            // int z = 30;
+            // 
+            // int x = 10, y = 20, z = 30; 
+            
+            // int 
+            //     x = 10,
+            //     y = 20,
+            //     x = 30; 
 
             int number = 10;
             string text = "sanple text";
@@ -67,6 +67,7 @@ namespace CSharp_Mini_8hrs
             Console.WriteLine("String: " + name2);
             Console.WriteLine("Char: " + name3);
     
+        */
         }
    }  
 }

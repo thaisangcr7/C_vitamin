@@ -8,7 +8,7 @@ namespace CSharp_Mini_8hrs
     {
         public void run()
         {
-        
+        /*
             int age = 23;
 
             // incremental by 1
@@ -36,7 +36,7 @@ namespace CSharp_Mini_8hrs
             int i = 0;
             System.Console.WriteLine(++i);
             System.Console.WriteLine(i);
-
+        */
 
         }
     }

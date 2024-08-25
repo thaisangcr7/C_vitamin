@@ -8,6 +8,7 @@ namespace CSharp_Mini_8hrs
     {
         public void run()
         {
+            /*
             
             // 10/3 = 3r1
             // 10 % 3 = 1
@@ -25,7 +26,7 @@ namespace CSharp_Mini_8hrs
             System.Console.WriteLine(100 % 90);
             System.Console.WriteLine(71 % 90);
 
-
+            */
         }
     }
 

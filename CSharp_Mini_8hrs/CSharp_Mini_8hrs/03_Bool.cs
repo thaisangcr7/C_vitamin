@@ -8,6 +8,7 @@ namespace CSharp_Mini_8hrs
     {
         public void run()
         {
+            /*
 
             bool value = true;
             System.Console.WriteLine(value);
@@ -17,7 +18,8 @@ namespace CSharp_Mini_8hrs
 
             ismale = false;
             System.Console.WriteLine(ismale);
-
+            
+            */
 
 
         }

@@ -8,7 +8,7 @@ namespace CSharp_Mini_8hrs
     {
         public void run()
         {
-
+/*
             // varibale 
             int vat = 20;
             vat = 10; // This is allowed because vat is a variable
@@ -22,7 +22,7 @@ namespace CSharp_Mini_8hrs
             System.Console.WriteLine(balance * (vat2 / 100D));
             System.Console.WriteLine(balance * percentVat2);
             // vat2 = 10; // This would throw a compiler error because vat2 is a constant
-
+*/
 
         
         }

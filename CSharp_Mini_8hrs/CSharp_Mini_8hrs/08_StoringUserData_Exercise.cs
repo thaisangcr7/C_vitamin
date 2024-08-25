@@ -17,6 +17,7 @@ namespace CSharp_Mini_8hrs
             Extra: Define variables using the var keyboard
             */
             
+            /*
             string name = "Sang";
             int number = 013456789; // the result will exclude number 0
             int age = 24;
@@ -34,6 +35,7 @@ namespace CSharp_Mini_8hrs
             System.Console.WriteLine(name1);
             System.Console.WriteLine(number1);
             System.Console.WriteLine(age1);
+            */
 
 
 

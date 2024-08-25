@@ -18,6 +18,7 @@ namespace CSharp_Mini_8hrs
                 Output new remainder to the screen
             */
             
+            /*
             int num1 = 10;
             int num2 = 2;
             int remainder = num1 % num2;
@@ -27,6 +28,7 @@ namespace CSharp_Mini_8hrs
             int num4 = 2;
             int remainder1 = num3 % num4;
             System.Console.WriteLine(remainder1); // 1 is odd
+            */
 
         }
             

@@ -7,6 +7,7 @@ namespace CSharp_Mini_8hrs
     {
         public void run()
         {
+            /*
             // Convert using Convert.toInt32()
             string textAge = "-23";
             int age = Convert.ToInt32(textAge);
@@ -32,6 +33,7 @@ namespace CSharp_Mini_8hrs
             decimal decimalmoney = Convert.ToDecimal(textmoney);
             System.Console.WriteLine(decimalmoney);
 
+            */
 
 
 

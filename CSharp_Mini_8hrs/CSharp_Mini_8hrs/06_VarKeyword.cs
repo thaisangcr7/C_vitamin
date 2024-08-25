@@ -8,6 +8,7 @@ namespace CSharp_Mini_8hrs
     {
         public void run()
         {
+            /*
             // Var
             var age = 23;
             Console.WriteLine(age);
@@ -33,7 +34,7 @@ namespace CSharp_Mini_8hrs
 
             var letter = 's';
             System.Console.WriteLine(letter);          
-
+            */
 
         }
     }
