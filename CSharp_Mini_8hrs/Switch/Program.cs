@@ -26,7 +26,7 @@ class Program
 
             switch(day)
             {
-                case 1: System.Console.WriteLine("Monday");
+                case 1: System.Console.WriteLine("MondayT");
                     break;
                 case 2: System.Console.WriteLine("Tuesday");
                     break;
