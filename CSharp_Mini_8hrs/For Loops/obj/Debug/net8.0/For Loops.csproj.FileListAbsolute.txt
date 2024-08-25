@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/bin/Debug/net8.0/For Loops
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/bin/Debug/net8.0/For Loops.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/bin/Debug/net8.0/For Loops.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/bin/Debug/net8.0/For Loops.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/bin/Debug/net8.0/For Loops.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/obj/Debug/net8.0/For Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/obj/Debug/net8.0/For Loops.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/obj/Debug/net8.0/For Loops.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/obj/Debug/net8.0/For Loops.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/obj/Debug/net8.0/For Loops.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/obj/Debug/net8.0/For Loops.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/obj/Debug/net8.0/refint/For Loops.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/obj/Debug/net8.0/For Loops.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/obj/Debug/net8.0/For Loops.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/obj/Debug/net8.0/ref/For Loops.dll

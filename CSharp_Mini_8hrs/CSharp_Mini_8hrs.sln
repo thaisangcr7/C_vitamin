@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp_Mini_8hrs_Project", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{724C3FAB-811F-434C-A249-23FC3B2DAF81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For Loops", "For Loops\For Loops.csproj", "{71626FE6-A276-49D9-BFF8-4BCCB310EB75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{724C3FAB-811F-434C-A249-23FC3B2DAF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{724C3FAB-811F-434C-A249-23FC3B2DAF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{724C3FAB-811F-434C-A249-23FC3B2DAF81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71626FE6-A276-49D9-BFF8-4BCCB310EB75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71626FE6-A276-49D9-BFF8-4BCCB310EB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71626FE6-A276-49D9-BFF8-4BCCB310EB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71626FE6-A276-49D9-BFF8-4BCCB310EB75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
