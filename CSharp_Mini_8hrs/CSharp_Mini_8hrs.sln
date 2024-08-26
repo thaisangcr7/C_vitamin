@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For Loops", "For Loops\For Loops.csproj", "{71626FE6-A276-49D9-BFF8-4BCCB310EB75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While_Loops", "While_Loops\While_Loops.csproj", "{1D4D6769-C0D8-4C90-B6EC-D0F6A54845D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{71626FE6-A276-49D9-BFF8-4BCCB310EB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71626FE6-A276-49D9-BFF8-4BCCB310EB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71626FE6-A276-49D9-BFF8-4BCCB310EB75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D4D6769-C0D8-4C90-B6EC-D0F6A54845D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4D6769-C0D8-4C90-B6EC-D0F6A54845D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4D6769-C0D8-4C90-B6EC-D0F6A54845D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4D6769-C0D8-4C90-B6EC-D0F6A54845D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

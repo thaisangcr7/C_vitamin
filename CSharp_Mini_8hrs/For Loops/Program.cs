@@ -12,6 +12,7 @@ class Program
             // Console.WriteLine("Hello, World!");
 
         // For Loop 
+        // def: print how many times we want
             // for (int i = 0; i < 5; i++) // for(declear a new varibale, condition(run 5 times), task)
             // {
             //     Console.WriteLine("Hello for For_Loops");
