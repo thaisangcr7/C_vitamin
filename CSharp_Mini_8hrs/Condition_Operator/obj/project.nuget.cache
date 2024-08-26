@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kqWSd03ed68=",
+  "dgSpecHash": "Kot/cPsnu5k=",
   "success": true,
-  "projectFilePath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/3. For Loops.csproj",
+  "projectFilePath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Condition_Operator/5. Condition_Operator.csproj",
   "expectedPackageFiles": [
     "/Users/sangth/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.7/microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512",
     "/Users/sangth/.nuget/packages/microsoft.net.illink.tasks/8.0.7/microsoft.net.illink.tasks.8.0.7.nupkg.sha512",

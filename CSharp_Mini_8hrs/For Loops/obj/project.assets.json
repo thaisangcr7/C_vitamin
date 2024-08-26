@@ -111,9 +111,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/For Loops.csproj",
-      "projectName": "For Loops",
-      "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/For Loops.csproj",
+      "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/3. For Loops.csproj",
+      "projectName": "3. For Loops",
+      "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/3. For Loops.csproj",
       "packagesPath": "/Users/sangth/.nuget/packages/",
       "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/For Loops/obj/",
       "projectStyle": "PackageReference",

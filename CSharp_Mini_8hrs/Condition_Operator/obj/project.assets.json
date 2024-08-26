@@ -111,11 +111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/While_Loops/4. While_Loops.csproj",
-      "projectName": "4. While_Loops",
-      "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/While_Loops/4. While_Loops.csproj",
+      "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Condition_Operator/5. Condition_Operator.csproj",
+      "projectName": "5. Condition_Operator",
+      "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Condition_Operator/5. Condition_Operator.csproj",
       "packagesPath": "/Users/sangth/.nuget/packages/",
-      "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/While_Loops/obj/",
+      "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Condition_Operator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sangth/.nuget/NuGet/NuGet.Config"

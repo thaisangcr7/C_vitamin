@@ -111,9 +111,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/CSharp_Mini_8hrs.csproj",
-      "projectName": "CSharp_Mini_8hrs",
-      "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/CSharp_Mini_8hrs.csproj",
+      "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/1. CSharp_Mini_8hrs.csproj",
+      "projectName": "1. CSharp_Mini_8hrs",
+      "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/1. CSharp_Mini_8hrs.csproj",
       "packagesPath": "/Users/sangth/.nuget/packages/",
       "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/obj/",
       "projectStyle": "PackageReference",

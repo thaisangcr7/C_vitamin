@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/1. CSharp_Mini_8hrs.csproj": {}
+  },
+  "projects": {
+    "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/1. CSharp_Mini_8hrs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/1. CSharp_Mini_8hrs.csproj",
+        "projectName": "1. CSharp_Mini_8hrs",
+        "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/1. CSharp_Mini_8hrs.csproj",
+        "packagesPath": "/Users/sangth/.nuget/packages/",
+        "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/CSharp_Mini_8hrs/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sangth/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.DotNet.ILCompiler": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "runtime.osx-arm64.Microsoft.DotNet.ILCompiler",
+              "version": "[8.0.7, 8.0.7]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

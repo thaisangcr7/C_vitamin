@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Mini_8hrs", "CSharp_Mini_8hrs\CSharp_Mini_8hrs.csproj", "{8C027DCE-4660-4583-B675-A7F79A6CF7C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. CSharp_Mini_8hrs", "CSharp_Mini_8hrs\1. CSharp_Mini_8hrs.csproj", "{8C027DCE-4660-4583-B675-A7F79A6CF7C9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp_Mini_8hrs_Project", "CSharp_Mini_8hrs_Project", "{A7E32BA3-7E3F-4D69-AE79-784156F6E25A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{724C3FAB-811F-434C-A249-23FC3B2DAF81}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Switch", "Switch\2. Switch.csproj", "{724C3FAB-811F-434C-A249-23FC3B2DAF81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For Loops", "For Loops\For Loops.csproj", "{71626FE6-A276-49D9-BFF8-4BCCB310EB75}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. For Loops", "For Loops\3. For Loops.csproj", "{71626FE6-A276-49D9-BFF8-4BCCB310EB75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While_Loops", "While_Loops\While_Loops.csproj", "{1D4D6769-C0D8-4C90-B6EC-D0F6A54845D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. While_Loops", "While_Loops\4. While_Loops.csproj", "{1D4D6769-C0D8-4C90-B6EC-D0F6A54845D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Condition_Operator", "Condition_Operator\5. Condition_Operator.csproj", "{1992652B-9607-471F-A72A-FD7E2B9202A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{1D4D6769-C0D8-4C90-B6EC-D0F6A54845D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D4D6769-C0D8-4C90-B6EC-D0F6A54845D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D4D6769-C0D8-4C90-B6EC-D0F6A54845D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1992652B-9607-471F-A72A-FD7E2B9202A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1992652B-9607-471F-A72A-FD7E2B9202A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1992652B-9607-471F-A72A-FD7E2B9202A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1992652B-9607-471F-A72A-FD7E2B9202A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
