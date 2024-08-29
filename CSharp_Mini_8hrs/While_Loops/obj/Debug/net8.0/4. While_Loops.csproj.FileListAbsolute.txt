@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/While_Loops/bin/Debug/net8.0/4. While_Loops
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/While_Loops/bin/Debug/net8.0/4. While_Loops.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/While_Loops/bin/Debug/net8.0/4. While_Loops.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/While_Loops/bin/Debug/net8.0/4. While_Loops.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/While_Loops/bin/Debug/net8.0/4. While_Loops.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/While_Loops/obj/Debug/net8.0/4. While_Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/While_Loops/obj/Debug/net8.0/4. While_Loops.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/While_Loops/obj/Debug/net8.0/4. While_Loops.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/While_Loops/obj/Debug/net8.0/4. While_Loops.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/While_Loops/obj/Debug/net8.0/4. While_Loops.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/While_Loops/obj/Debug/net8.0/4. While_Loops.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/While_Loops/obj/Debug/net8.0/refint/4. While_Loops.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/While_Loops/obj/Debug/net8.0/4. While_Loops.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/While_Loops/obj/Debug/net8.0/4. While_Loops.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/While_Loops/obj/Debug/net8.0/ref/4. While_Loops.dll
