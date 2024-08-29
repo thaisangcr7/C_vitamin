@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/6. TryParse Function/bin/Debug/net8.0/6. TryParse Function
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/6. TryParse Function/bin/Debug/net8.0/6. TryParse Function.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/6. TryParse Function/bin/Debug/net8.0/6. TryParse Function.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/6. TryParse Function/bin/Debug/net8.0/6. TryParse Function.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/6. TryParse Function/bin/Debug/net8.0/6. TryParse Function.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/6. TryParse Function/obj/Debug/net8.0/6. TryParse Function.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/6. TryParse Function/obj/Debug/net8.0/6. TryParse Function.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/6. TryParse Function/obj/Debug/net8.0/6. TryParse Function.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/6. TryParse Function/obj/Debug/net8.0/6. TryParse Function.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/6. TryParse Function/obj/Debug/net8.0/6. TryParse Function.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/6. TryParse Function/obj/Debug/net8.0/6. TryParse Function.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/6. TryParse Function/obj/Debug/net8.0/refint/6. TryParse Function.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/6. TryParse Function/obj/Debug/net8.0/6. TryParse Function.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/6. TryParse Function/obj/Debug/net8.0/6. TryParse Function.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/6. TryParse Function/obj/Debug/net8.0/ref/6. TryParse Function.dll
