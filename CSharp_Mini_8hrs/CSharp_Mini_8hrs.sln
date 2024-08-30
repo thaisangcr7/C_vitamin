@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. TryParse Function", "6. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Excercise _ Times Table", "7. Excercise _ Times Table\7. Excercise _ Times Table.csproj", "{BD8272B3-ACB2-474C-8FC5-C7714CCB6A85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Excercise _ Fizz Buzz Game", "8. Excercise _ Fizz Buzz Game\8. Excercise _ Fizz Buzz Game.csproj", "{95438669-B3ED-4CDC-B0C3-E3ABF12A3986}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{BD8272B3-ACB2-474C-8FC5-C7714CCB6A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD8272B3-ACB2-474C-8FC5-C7714CCB6A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD8272B3-ACB2-474C-8FC5-C7714CCB6A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95438669-B3ED-4CDC-B0C3-E3ABF12A3986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95438669-B3ED-4CDC-B0C3-E3ABF12A3986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95438669-B3ED-4CDC-B0C3-E3ABF12A3986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95438669-B3ED-4CDC-B0C3-E3ABF12A3986}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

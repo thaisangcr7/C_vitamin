@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/8. Excercise _ Fizz Buzz Game/bin/Debug/net8.0/8. Excercise _ Fizz Buzz Game
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/8. Excercise _ Fizz Buzz Game/bin/Debug/net8.0/8. Excercise _ Fizz Buzz Game.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/8. Excercise _ Fizz Buzz Game/bin/Debug/net8.0/8. Excercise _ Fizz Buzz Game.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/8. Excercise _ Fizz Buzz Game/bin/Debug/net8.0/8. Excercise _ Fizz Buzz Game.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/8. Excercise _ Fizz Buzz Game/bin/Debug/net8.0/8. Excercise _ Fizz Buzz Game.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/8. Excercise _ Fizz Buzz Game/obj/Debug/net8.0/8. Excercise _ Fizz Buzz Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/8. Excercise _ Fizz Buzz Game/obj/Debug/net8.0/8. Excercise _ Fizz Buzz Game.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/8. Excercise _ Fizz Buzz Game/obj/Debug/net8.0/8. Excercise _ Fizz Buzz Game.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/8. Excercise _ Fizz Buzz Game/obj/Debug/net8.0/8. Excercise _ Fizz Buzz Game.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/8. Excercise _ Fizz Buzz Game/obj/Debug/net8.0/8. Excercise _ Fizz Buzz Game.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/8. Excercise _ Fizz Buzz Game/obj/Debug/net8.0/8. Excercise _ Fizz Buzz Game.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/8. Excercise _ Fizz Buzz Game/obj/Debug/net8.0/refint/8. Excercise _ Fizz Buzz Game.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/8. Excercise _ Fizz Buzz Game/obj/Debug/net8.0/8. Excercise _ Fizz Buzz Game.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/8. Excercise _ Fizz Buzz Game/obj/Debug/net8.0/8. Excercise _ Fizz Buzz Game.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/8. Excercise _ Fizz Buzz Game/obj/Debug/net8.0/ref/8. Excercise _ Fizz Buzz Game.dll
