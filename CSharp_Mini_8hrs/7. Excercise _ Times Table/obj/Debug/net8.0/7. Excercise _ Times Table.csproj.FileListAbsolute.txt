@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/7. Excercise _ Times Table/bin/Debug/net8.0/7. Excercise _ Times Table
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/7. Excercise _ Times Table/bin/Debug/net8.0/7. Excercise _ Times Table.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/7. Excercise _ Times Table/bin/Debug/net8.0/7. Excercise _ Times Table.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/7. Excercise _ Times Table/bin/Debug/net8.0/7. Excercise _ Times Table.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/7. Excercise _ Times Table/bin/Debug/net8.0/7. Excercise _ Times Table.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/7. Excercise _ Times Table/obj/Debug/net8.0/7. Excercise _ Times Table.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/7. Excercise _ Times Table/obj/Debug/net8.0/7. Excercise _ Times Table.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/7. Excercise _ Times Table/obj/Debug/net8.0/7. Excercise _ Times Table.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/7. Excercise _ Times Table/obj/Debug/net8.0/7. Excercise _ Times Table.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/7. Excercise _ Times Table/obj/Debug/net8.0/7. Excercise _ Times Table.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/7. Excercise _ Times Table/obj/Debug/net8.0/7. Excercise _ Times Table.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/7. Excercise _ Times Table/obj/Debug/net8.0/refint/7. Excercise _ Times Table.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/7. Excercise _ Times Table/obj/Debug/net8.0/7. Excercise _ Times Table.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/7. Excercise _ Times Table/obj/Debug/net8.0/7. Excercise _ Times Table.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/7. Excercise _ Times Table/obj/Debug/net8.0/ref/7. Excercise _ Times Table.dll

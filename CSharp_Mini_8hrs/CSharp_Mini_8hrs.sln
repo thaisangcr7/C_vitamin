@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Condition_Operator", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. TryParse Function", "6. TryParse Function\6. TryParse Function.csproj", "{ADE3895A-E442-49BD-AE19-04536D69DE91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Excercise _ Times Table", "7. Excercise _ Times Table\7. Excercise _ Times Table.csproj", "{BD8272B3-ACB2-474C-8FC5-C7714CCB6A85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{ADE3895A-E442-49BD-AE19-04536D69DE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADE3895A-E442-49BD-AE19-04536D69DE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADE3895A-E442-49BD-AE19-04536D69DE91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD8272B3-ACB2-474C-8FC5-C7714CCB6A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8272B3-ACB2-474C-8FC5-C7714CCB6A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8272B3-ACB2-474C-8FC5-C7714CCB6A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8272B3-ACB2-474C-8FC5-C7714CCB6A85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
