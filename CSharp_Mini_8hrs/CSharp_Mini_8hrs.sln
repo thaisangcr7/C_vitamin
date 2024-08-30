@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Excercise _ Times Table"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Excercise _ Fizz Buzz Game", "8. Excercise _ Fizz Buzz Game\8. Excercise _ Fizz Buzz Game.csproj", "{95438669-B3ED-4CDC-B0C3-E3ABF12A3986}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Verbatim String Literal", "9. Verbatim String Literal\9. Verbatim String Literal.csproj", "{A9A0B985-19D0-4F35-9AA0-96F11E872CB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{95438669-B3ED-4CDC-B0C3-E3ABF12A3986}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95438669-B3ED-4CDC-B0C3-E3ABF12A3986}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95438669-B3ED-4CDC-B0C3-E3ABF12A3986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9A0B985-19D0-4F35-9AA0-96F11E872CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A0B985-19D0-4F35-9AA0-96F11E872CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A0B985-19D0-4F35-9AA0-96F11E872CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A0B985-19D0-4F35-9AA0-96F11E872CB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/9. Verbatim String Literal/bin/Debug/net8.0/9. Verbatim String Literal
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/9. Verbatim String Literal/bin/Debug/net8.0/9. Verbatim String Literal.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/9. Verbatim String Literal/bin/Debug/net8.0/9. Verbatim String Literal.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/9. Verbatim String Literal/bin/Debug/net8.0/9. Verbatim String Literal.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/9. Verbatim String Literal/bin/Debug/net8.0/9. Verbatim String Literal.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/9. Verbatim String Literal/obj/Debug/net8.0/9. Verbatim String Literal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/9. Verbatim String Literal/obj/Debug/net8.0/9. Verbatim String Literal.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/9. Verbatim String Literal/obj/Debug/net8.0/9. Verbatim String Literal.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/9. Verbatim String Literal/obj/Debug/net8.0/9. Verbatim String Literal.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/9. Verbatim String Literal/obj/Debug/net8.0/9. Verbatim String Literal.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/9. Verbatim String Literal/obj/Debug/net8.0/9. Verbatim String Literal.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/9. Verbatim String Literal/obj/Debug/net8.0/refint/9. Verbatim String Literal.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/9. Verbatim String Literal/obj/Debug/net8.0/9. Verbatim String Literal.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/9. Verbatim String Literal/obj/Debug/net8.0/9. Verbatim String Literal.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/9. Verbatim String Literal/obj/Debug/net8.0/ref/9. Verbatim String Literal.dll
