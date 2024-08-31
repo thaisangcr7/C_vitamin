@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. String Formating", "10.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. String Concatenation", "String Concatenation\11. String Concatenation.csproj", "{AA1465E6-0503-4A60-934F-664A6BCB14F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. String Equals Function", "12. String Equals Function\12. String Equals Function.csproj", "{4AD3738F-3F5E-41B7-96FA-D86C917AB975}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{AA1465E6-0503-4A60-934F-664A6BCB14F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA1465E6-0503-4A60-934F-664A6BCB14F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA1465E6-0503-4A60-934F-664A6BCB14F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD3738F-3F5E-41B7-96FA-D86C917AB975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD3738F-3F5E-41B7-96FA-D86C917AB975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD3738F-3F5E-41B7-96FA-D86C917AB975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD3738F-3F5E-41B7-96FA-D86C917AB975}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

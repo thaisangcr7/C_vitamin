@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/12. String Equals Function/obj/Debug/net8.0/12. String Equals Function.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/12. String Equals Function/obj/Debug/net8.0/12. String Equals Function.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/12. String Equals Function/obj/Debug/net8.0/12. String Equals Function.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/12. String Equals Function/obj/Debug/net8.0/12. String Equals Function.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/12. String Equals Function/obj/Debug/net8.0/12. String Equals Function.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/12. String Equals Function/bin/Debug/net8.0/12. String Equals Function
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/12. String Equals Function/bin/Debug/net8.0/12. String Equals Function.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/12. String Equals Function/bin/Debug/net8.0/12. String Equals Function.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/12. String Equals Function/bin/Debug/net8.0/12. String Equals Function.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/12. String Equals Function/bin/Debug/net8.0/12. String Equals Function.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/12. String Equals Function/obj/Debug/net8.0/12. String Equals Function.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/12. String Equals Function/obj/Debug/net8.0/refint/12. String Equals Function.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/12. String Equals Function/obj/Debug/net8.0/12. String Equals Function.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/12. String Equals Function/obj/Debug/net8.0/12. String Equals Function.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/12. String Equals Function/obj/Debug/net8.0/ref/12. String Equals Function.dll

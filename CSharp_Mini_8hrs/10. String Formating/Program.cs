@@ -24,6 +24,22 @@ class Program
         // String Interpolation
         System.Console.WriteLine($"Your name is {name}, and your age is {age}");
 
+        // Emty String  
+            System.Console.WriteLine("Enter your name: ");
+            string? nameEmptyTest = Console.ReadLine();
+
+            if (name != string.Empty) // ""
+            {
+                System.Console.WriteLine($" Your name is {nameEmptyTest}");
+            }  
+            else
+            {
+                System.Console.WriteLine("Name is Empty");
+            }
+
+            Console.ReadLine();
+
+
 
 
 
