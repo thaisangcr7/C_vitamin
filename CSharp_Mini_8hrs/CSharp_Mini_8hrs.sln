@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Verbatim String Literal"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. String Formating", "10. String Formating\10. String Formating.csproj", "{B3F72E04-73BD-482A-B19F-04607FD063C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. String Concatenation", "String Concatenation\11. String Concatenation.csproj", "{AA1465E6-0503-4A60-934F-664A6BCB14F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,10 @@ Global
 		{B3F72E04-73BD-482A-B19F-04607FD063C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3F72E04-73BD-482A-B19F-04607FD063C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3F72E04-73BD-482A-B19F-04607FD063C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA1465E6-0503-4A60-934F-664A6BCB14F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1465E6-0503-4A60-934F-664A6BCB14F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1465E6-0503-4A60-934F-664A6BCB14F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1465E6-0503-4A60-934F-664A6BCB14F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

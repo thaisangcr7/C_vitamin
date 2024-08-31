@@ -21,5 +21,11 @@ class Program
 
         System.Console.WriteLine("Name: {0}\nAge: {1}", name, age);
 
+        // String Interpolation
+        System.Console.WriteLine($"Your name is {name}, and your age is {age}");
+
+
+
+
     }
 }

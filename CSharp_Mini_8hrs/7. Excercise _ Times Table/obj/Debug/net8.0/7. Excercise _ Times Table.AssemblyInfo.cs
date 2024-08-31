@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("7. Excercise _ Times Table")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b01deaf2f2e8b5a7db2f382da72342b4cf50d99f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a63c987808cca28d815b0b02464bb121617563da")]
 [assembly: System.Reflection.AssemblyProductAttribute("7. Excercise _ Times Table")]
 [assembly: System.Reflection.AssemblyTitleAttribute("7. Excercise _ Times Table")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
