@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. String is Null or Empty
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Excercise _ Print String in Reverse", "15. Excercise _ Print String in Reverse\15. Excercise _ Print String in Reverse.csproj", "{C9453425-FCCB-48C7-AA07-FE5FE72EC29F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. Exercise _ Password Checker", "16. Exercise _ Password Checker\16. Exercise _ Password Checker.csproj", "{0A3D473D-2EAF-4F3A-B0DC-ABF26B10E883}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,10 @@ Global
 		{C9453425-FCCB-48C7-AA07-FE5FE72EC29F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9453425-FCCB-48C7-AA07-FE5FE72EC29F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9453425-FCCB-48C7-AA07-FE5FE72EC29F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A3D473D-2EAF-4F3A-B0DC-ABF26B10E883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3D473D-2EAF-4F3A-B0DC-ABF26B10E883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3D473D-2EAF-4F3A-B0DC-ABF26B10E883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3D473D-2EAF-4F3A-B0DC-ABF26B10E883}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

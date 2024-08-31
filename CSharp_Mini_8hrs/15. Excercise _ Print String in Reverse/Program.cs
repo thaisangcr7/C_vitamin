@@ -8,7 +8,7 @@ class Program
         // print in order
         // print in reverse
         Console.Write("Enter Your message: ");
-        string message = Console.ReadLine();
+        string? message = Console.ReadLine();
 
         // check the length; 
             //System.Console.WriteLine(message.Length); // result: 14 = 0-13 index
@@ -21,7 +21,7 @@ class Program
         Console.WriteLine(); // seperate line
 
         // print in reverse
-        for (int s = message.Length -1; s < message.Length; s--)
+        for (int s = message.Length -1; s >= 0; s--)
         {
             System.Console.WriteLine(message[s]);
         }

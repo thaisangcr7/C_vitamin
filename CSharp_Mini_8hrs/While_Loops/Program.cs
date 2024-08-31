@@ -44,31 +44,31 @@ class Program
         // While (Condition)
         // while (answer = actualAnswer )
 
-            // Console.WriteLine("Enter the First number");
-            // string? numAInput = Console.ReadLine();
-            // int numberA = Convert.ToInt32(numAInput);
+            Console.WriteLine("Enter the First number");
+            string? numAInput = Console.ReadLine();
+            int numberA = Convert.ToInt32(numAInput);
 
-            // Console.WriteLine("Enter the Second number");
-            // string? numBInput = Console.ReadLine();
-            // int numberB = Convert.ToInt32(numBInput);
+            Console.WriteLine("Enter the Second number");
+            string? numBInput = Console.ReadLine();
+            int numberB = Convert.ToInt32(numBInput);
 
-            // int answer = numberA * numberB; // computer calculate
-            // int actualAnswer = 0; // innitalize the variable that require user input
+            int answer = numberA * numberB; // computer calculate
+            int actualAnswer = 0; // innitalize the variable that require user input
 
-            // Console.Write("Whats the value of " + numberA + " x " + numberB + " ? ");
-            // System.Console.WriteLine("");
+            Console.Write("Whats the value of " + numberA + " x " + numberB + " ? ");
+            System.Console.WriteLine("");
 
-                // while (answer != actualAnswer) // this considtion is True if user enter a wrong answer
-                //     {
-                //         string? answerInput = Console.ReadLine(); // ask user Input
-                //         actualAnswer = Convert.ToInt32(answerInput);
+                while (answer != actualAnswer) // this considtion is True if user enter a wrong answer
+                    {
+                        string? answerInput = Console.ReadLine(); // ask user Input
+                        actualAnswer = Convert.ToInt32(answerInput);
 
-                //         {
-                //             System.Console.WriteLine("Close but it was wrong!");
-                //         }
-                //     }
+                        {
+                            System.Console.WriteLine("Close but it was wrong!");
+                        }
+                    }
                 
-                // System.Console.WriteLine("Well done!"); 
+                System.Console.WriteLine("Well done!"); 
 
                 // Note: for while Loop
                 // because if while condition is true then go inside while loop
