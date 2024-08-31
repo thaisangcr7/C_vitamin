@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("14. String is Null or Empty Function")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+576aafd15fb48043848bf92621715d259b6a6a14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d236dd841fad1aa9bf4f28e16d5f1d41de2116e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("14. String is Null or Empty Function")]
 [assembly: System.Reflection.AssemblyTitleAttribute("14. String is Null or Empty Function")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

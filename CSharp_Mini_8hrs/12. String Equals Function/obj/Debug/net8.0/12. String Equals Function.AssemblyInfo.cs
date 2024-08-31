@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("12. String Equals Function")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae692992b1a98bf9e0fa959df5e2ecf4b810a9d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d236dd841fad1aa9bf4f28e16d5f1d41de2116e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("12. String Equals Function")]
 [assembly: System.Reflection.AssemblyTitleAttribute("12. String Equals Function")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

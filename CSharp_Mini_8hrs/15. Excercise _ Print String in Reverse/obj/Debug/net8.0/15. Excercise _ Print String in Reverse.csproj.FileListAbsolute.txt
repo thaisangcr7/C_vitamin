@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/15. Excercise _ Print String in Reverse/bin/Debug/net8.0/15. Excercise _ Print String in Reverse
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/15. Excercise _ Print String in Reverse/bin/Debug/net8.0/15. Excercise _ Print String in Reverse.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/15. Excercise _ Print String in Reverse/bin/Debug/net8.0/15. Excercise _ Print String in Reverse.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/15. Excercise _ Print String in Reverse/bin/Debug/net8.0/15. Excercise _ Print String in Reverse.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/15. Excercise _ Print String in Reverse/bin/Debug/net8.0/15. Excercise _ Print String in Reverse.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/15. Excercise _ Print String in Reverse/obj/Debug/net8.0/15. Excercise _ Print String in Reverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/15. Excercise _ Print String in Reverse/obj/Debug/net8.0/15. Excercise _ Print String in Reverse.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/15. Excercise _ Print String in Reverse/obj/Debug/net8.0/15. Excercise _ Print String in Reverse.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/15. Excercise _ Print String in Reverse/obj/Debug/net8.0/15. Excercise _ Print String in Reverse.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/15. Excercise _ Print String in Reverse/obj/Debug/net8.0/15. Excercise _ Print String in Reverse.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/15. Excercise _ Print String in Reverse/obj/Debug/net8.0/15. Excercise _ Print String in Reverse.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/15. Excercise _ Print String in Reverse/obj/Debug/net8.0/refint/15. Excercise _ Print String in Reverse.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/15. Excercise _ Print String in Reverse/obj/Debug/net8.0/15. Excercise _ Print String in Reverse.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/15. Excercise _ Print String in Reverse/obj/Debug/net8.0/15. Excercise _ Print String in Reverse.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/15. Excercise _ Print String in Reverse/obj/Debug/net8.0/ref/15. Excercise _ Print String in Reverse.dll
