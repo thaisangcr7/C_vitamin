@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. String Concatenation", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. String Equals Function", "12. String Equals Function\12. String Equals Function.csproj", "{4AD3738F-3F5E-41B7-96FA-D86C917AB975}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. String Iteration Looping", "13. String Iteration Looping\13. String Iteration Looping.csproj", "{35A07E4F-70C0-43EF-B546-2E6CF1127F19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{4AD3738F-3F5E-41B7-96FA-D86C917AB975}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AD3738F-3F5E-41B7-96FA-D86C917AB975}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AD3738F-3F5E-41B7-96FA-D86C917AB975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A07E4F-70C0-43EF-B546-2E6CF1127F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A07E4F-70C0-43EF-B546-2E6CF1127F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A07E4F-70C0-43EF-B546-2E6CF1127F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A07E4F-70C0-43EF-B546-2E6CF1127F19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

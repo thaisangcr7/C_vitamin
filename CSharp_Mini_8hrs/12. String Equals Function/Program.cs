@@ -21,18 +21,18 @@ class Program
             // }
 
         // ex2:
-            string message = "Hello";
-            string compare = "Hello";
+            // string message = "Hello";
+            // string compare = "Hello";
 
-            if (message.Equals(compare))
-            {
-                Console.WriteLine("The strings are same");
-            }
-            else
+            // if (message.Equals(compare))
+            // {
+            //     Console.WriteLine("The strings are same");
+            // }
+            // else
             
-            {
-                Console.WriteLine("The strings are different");
-            }
+            // {
+            //     Console.WriteLine("The strings are different");
+            // }
 
         // ex3:
             Console.Write("Enter your name: ");

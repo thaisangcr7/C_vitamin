@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/13. String Iteration Looping/bin/Debug/net8.0/13. String Iteration Looping
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/13. String Iteration Looping/bin/Debug/net8.0/13. String Iteration Looping.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/13. String Iteration Looping/bin/Debug/net8.0/13. String Iteration Looping.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/13. String Iteration Looping/bin/Debug/net8.0/13. String Iteration Looping.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/13. String Iteration Looping/bin/Debug/net8.0/13. String Iteration Looping.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/13. String Iteration Looping/obj/Debug/net8.0/13. String Iteration Looping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/13. String Iteration Looping/obj/Debug/net8.0/13. String Iteration Looping.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/13. String Iteration Looping/obj/Debug/net8.0/13. String Iteration Looping.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/13. String Iteration Looping/obj/Debug/net8.0/13. String Iteration Looping.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/13. String Iteration Looping/obj/Debug/net8.0/13. String Iteration Looping.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/13. String Iteration Looping/obj/Debug/net8.0/13. String Iteration Looping.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/13. String Iteration Looping/obj/Debug/net8.0/refint/13. String Iteration Looping.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/13. String Iteration Looping/obj/Debug/net8.0/13. String Iteration Looping.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/13. String Iteration Looping/obj/Debug/net8.0/13. String Iteration Looping.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/13. String Iteration Looping/obj/Debug/net8.0/ref/13. String Iteration Looping.dll
