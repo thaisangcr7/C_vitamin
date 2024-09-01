@@ -8,7 +8,7 @@ class Program
     {
        System.Console.WriteLine("Sang is on his way to become the Developer\n");
 
-
+        // Array when use know the exact numbers you will begin to store
        // This is where Array begin:
        // ex1: 
             // decalare variable for an array:
