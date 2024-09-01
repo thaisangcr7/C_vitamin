@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/21. Array IndexOf/bin/Debug/net8.0/21. Array IndexOf
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/21. Array IndexOf/bin/Debug/net8.0/21. Array IndexOf.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/21. Array IndexOf/bin/Debug/net8.0/21. Array IndexOf.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/21. Array IndexOf/bin/Debug/net8.0/21. Array IndexOf.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/21. Array IndexOf/bin/Debug/net8.0/21. Array IndexOf.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/21. Array IndexOf/obj/Debug/net8.0/21. Array IndexOf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/21. Array IndexOf/obj/Debug/net8.0/21. Array IndexOf.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/21. Array IndexOf/obj/Debug/net8.0/21. Array IndexOf.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/21. Array IndexOf/obj/Debug/net8.0/21. Array IndexOf.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/21. Array IndexOf/obj/Debug/net8.0/21. Array IndexOf.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/21. Array IndexOf/obj/Debug/net8.0/21. Array IndexOf.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/21. Array IndexOf/obj/Debug/net8.0/refint/21. Array IndexOf.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/21. Array IndexOf/obj/Debug/net8.0/21. Array IndexOf.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/21. Array IndexOf/obj/Debug/net8.0/21. Array IndexOf.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/21. Array IndexOf/obj/Debug/net8.0/ref/21. Array IndexOf.dll
