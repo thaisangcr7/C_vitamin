@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/17. Arrays/bin/Debug/net8.0/17. Arrays
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/17. Arrays/bin/Debug/net8.0/17. Arrays.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/17. Arrays/bin/Debug/net8.0/17. Arrays.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/17. Arrays/bin/Debug/net8.0/17. Arrays.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/17. Arrays/bin/Debug/net8.0/17. Arrays.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/17. Arrays/obj/Debug/net8.0/17. Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/17. Arrays/obj/Debug/net8.0/17. Arrays.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/17. Arrays/obj/Debug/net8.0/17. Arrays.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/17. Arrays/obj/Debug/net8.0/17. Arrays.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/17. Arrays/obj/Debug/net8.0/17. Arrays.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/17. Arrays/obj/Debug/net8.0/17. Arrays.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/17. Arrays/obj/Debug/net8.0/refint/17. Arrays.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/17. Arrays/obj/Debug/net8.0/17. Arrays.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/17. Arrays/obj/Debug/net8.0/17. Arrays.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/17. Arrays/obj/Debug/net8.0/ref/17. Arrays.dll

@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Excercise _ Print Strin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. Exercise _ Password Checker", "16. Exercise _ Password Checker\16. Exercise _ Password Checker.csproj", "{0A3D473D-2EAF-4F3A-B0DC-ABF26B10E883}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17. Arrays", "17. Arrays\17. Arrays.csproj", "{28447484-BB92-4262-88DF-5442F464E809}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -107,6 +109,10 @@ Global
 		{0A3D473D-2EAF-4F3A-B0DC-ABF26B10E883}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A3D473D-2EAF-4F3A-B0DC-ABF26B10E883}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A3D473D-2EAF-4F3A-B0DC-ABF26B10E883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28447484-BB92-4262-88DF-5442F464E809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28447484-BB92-4262-88DF-5442F464E809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28447484-BB92-4262-88DF-5442F464E809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28447484-BB92-4262-88DF-5442F464E809}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
