@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ze5chvIuKpI=",
+  "success": true,
+  "projectFilePath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/18. Arrays Sorting/18. Arrays Sorting.csproj",
+  "expectedPackageFiles": [
+    "/Users/sangth/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.7/microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512",
+    "/Users/sangth/.nuget/packages/microsoft.net.illink.tasks/8.0.7/microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "/Users/sangth/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/8.0.7/runtime.osx-arm64.microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
