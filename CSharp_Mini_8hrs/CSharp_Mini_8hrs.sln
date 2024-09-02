@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21. Array IndexOf", "21. Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22. Lists", "22. Lists\22. Lists.csproj", "{19F951F6-7561-4CF1-8D81-8069EDF99548}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23. Dictionary", "23. Dictionary\23. Dictionary.csproj", "{D77977C8-4901-4A2C-B40F-E3AE69A4E8BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -143,6 +145,10 @@ Global
 		{19F951F6-7561-4CF1-8D81-8069EDF99548}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19F951F6-7561-4CF1-8D81-8069EDF99548}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19F951F6-7561-4CF1-8D81-8069EDF99548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D77977C8-4901-4A2C-B40F-E3AE69A4E8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77977C8-4901-4A2C-B40F-E3AE69A4E8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77977C8-4901-4A2C-B40F-E3AE69A4E8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77977C8-4901-4A2C-B40F-E3AE69A4E8BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
