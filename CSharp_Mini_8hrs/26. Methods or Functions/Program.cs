@@ -10,6 +10,6 @@ class Program
         // Dry - Dont repeat yourself
         // Methods or Functions are blocks of code that can be called multiple times from different parts of the
         // program. They can take arguments and return values.
-        
+        System.Console.WriteLine("test");
     }
 }
