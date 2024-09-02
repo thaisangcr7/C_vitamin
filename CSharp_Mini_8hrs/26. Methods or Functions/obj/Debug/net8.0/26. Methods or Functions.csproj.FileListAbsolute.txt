@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/26. Methods or Functions/bin/Debug/net8.0/26. Methods or Functions
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/26. Methods or Functions/bin/Debug/net8.0/26. Methods or Functions.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/26. Methods or Functions/bin/Debug/net8.0/26. Methods or Functions.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/26. Methods or Functions/bin/Debug/net8.0/26. Methods or Functions.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/26. Methods or Functions/bin/Debug/net8.0/26. Methods or Functions.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/26. Methods or Functions/obj/Debug/net8.0/26. Methods or Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/26. Methods or Functions/obj/Debug/net8.0/26. Methods or Functions.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/26. Methods or Functions/obj/Debug/net8.0/26. Methods or Functions.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/26. Methods or Functions/obj/Debug/net8.0/26. Methods or Functions.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/26. Methods or Functions/obj/Debug/net8.0/26. Methods or Functions.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/26. Methods or Functions/obj/Debug/net8.0/26. Methods or Functions.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/26. Methods or Functions/obj/Debug/net8.0/refint/26. Methods or Functions.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/26. Methods or Functions/obj/Debug/net8.0/26. Methods or Functions.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/26. Methods or Functions/obj/Debug/net8.0/26. Methods or Functions.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/26. Methods or Functions/obj/Debug/net8.0/ref/26. Methods or Functions.dll
