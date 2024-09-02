@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/24. Excercise Odd _ Even Number Split/bin/Debug/net8.0/24. Excercise Odd _ Even Number Split
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/24. Excercise Odd _ Even Number Split/bin/Debug/net8.0/24. Excercise Odd _ Even Number Split.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/24. Excercise Odd _ Even Number Split/bin/Debug/net8.0/24. Excercise Odd _ Even Number Split.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/24. Excercise Odd _ Even Number Split/bin/Debug/net8.0/24. Excercise Odd _ Even Number Split.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/24. Excercise Odd _ Even Number Split/bin/Debug/net8.0/24. Excercise Odd _ Even Number Split.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/24. Excercise Odd _ Even Number Split/obj/Debug/net8.0/24. Excercise Odd _ Even Number Split.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/24. Excercise Odd _ Even Number Split/obj/Debug/net8.0/24. Excercise Odd _ Even Number Split.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/24. Excercise Odd _ Even Number Split/obj/Debug/net8.0/24. Excercise Odd _ Even Number Split.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/24. Excercise Odd _ Even Number Split/obj/Debug/net8.0/24. Excercise Odd _ Even Number Split.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/24. Excercise Odd _ Even Number Split/obj/Debug/net8.0/24. Excercise Odd _ Even Number Split.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/24. Excercise Odd _ Even Number Split/obj/Debug/net8.0/24. Excercise Odd _ Even Number Split.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/24. Excercise Odd _ Even Number Split/obj/Debug/net8.0/refint/24. Excercise Odd _ Even Number Split.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/24. Excercise Odd _ Even Number Split/obj/Debug/net8.0/24. Excercise Odd _ Even Number Split.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/24. Excercise Odd _ Even Number Split/obj/Debug/net8.0/24. Excercise Odd _ Even Number Split.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/24. Excercise Odd _ Even Number Split/obj/Debug/net8.0/ref/24. Excercise Odd _ Even Number Split.dll
