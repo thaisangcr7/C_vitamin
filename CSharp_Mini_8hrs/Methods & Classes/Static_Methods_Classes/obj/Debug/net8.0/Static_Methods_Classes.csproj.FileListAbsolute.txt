@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/bin/Debug/net8.0/Static_Methods_Classes
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/bin/Debug/net8.0/Static_Methods_Classes.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/bin/Debug/net8.0/Static_Methods_Classes.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/bin/Debug/net8.0/Static_Methods_Classes.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/bin/Debug/net8.0/Static_Methods_Classes.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/obj/Debug/net8.0/Static_Methods_Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/obj/Debug/net8.0/Static_Methods_Classes.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/obj/Debug/net8.0/Static_Methods_Classes.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/obj/Debug/net8.0/Static_Methods_Classes.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/obj/Debug/net8.0/Static_Methods_Classes.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/obj/Debug/net8.0/Static_Methods_Classes.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/obj/Debug/net8.0/refint/Static_Methods_Classes.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/obj/Debug/net8.0/Static_Methods_Classes.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/obj/Debug/net8.0/Static_Methods_Classes.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/obj/Debug/net8.0/ref/Static_Methods_Classes.dll

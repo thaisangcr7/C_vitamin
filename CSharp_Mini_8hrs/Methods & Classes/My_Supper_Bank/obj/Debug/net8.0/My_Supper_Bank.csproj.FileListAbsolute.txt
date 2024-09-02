@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/obj/Debug/net8.0/My_Supper_Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/obj/Debug/net8.0/My_Supper_Bank.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/obj/Debug/net8.0/My_Supper_Bank.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/obj/Debug/net8.0/My_Supper_Bank.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/obj/Debug/net8.0/My_Supper_Bank.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/bin/Debug/net8.0/My_Supper_Bank
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/bin/Debug/net8.0/My_Supper_Bank.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/bin/Debug/net8.0/My_Supper_Bank.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/bin/Debug/net8.0/My_Supper_Bank.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/bin/Debug/net8.0/My_Supper_Bank.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/obj/Debug/net8.0/My_Supper_Bank.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/obj/Debug/net8.0/refint/My_Supper_Bank.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/obj/Debug/net8.0/My_Supper_Bank.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/obj/Debug/net8.0/My_Supper_Bank.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/obj/Debug/net8.0/ref/My_Supper_Bank.dll

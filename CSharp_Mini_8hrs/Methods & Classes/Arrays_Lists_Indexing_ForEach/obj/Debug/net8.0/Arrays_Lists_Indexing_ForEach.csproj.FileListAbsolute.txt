@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Arrays_Lists_Indexing_ForEach/bin/Debug/net8.0/Arrays_Lists_Indexing_ForEach
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Arrays_Lists_Indexing_ForEach/bin/Debug/net8.0/Arrays_Lists_Indexing_ForEach.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Arrays_Lists_Indexing_ForEach/bin/Debug/net8.0/Arrays_Lists_Indexing_ForEach.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Arrays_Lists_Indexing_ForEach/bin/Debug/net8.0/Arrays_Lists_Indexing_ForEach.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Arrays_Lists_Indexing_ForEach/bin/Debug/net8.0/Arrays_Lists_Indexing_ForEach.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Arrays_Lists_Indexing_ForEach/obj/Debug/net8.0/Arrays_Lists_Indexing_ForEach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Arrays_Lists_Indexing_ForEach/obj/Debug/net8.0/Arrays_Lists_Indexing_ForEach.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Arrays_Lists_Indexing_ForEach/obj/Debug/net8.0/Arrays_Lists_Indexing_ForEach.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Arrays_Lists_Indexing_ForEach/obj/Debug/net8.0/Arrays_Lists_Indexing_ForEach.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Arrays_Lists_Indexing_ForEach/obj/Debug/net8.0/Arrays_Lists_Indexing_ForEach.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Arrays_Lists_Indexing_ForEach/obj/Debug/net8.0/Arrays_Lists_Indexing_ForEach.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Arrays_Lists_Indexing_ForEach/obj/Debug/net8.0/refint/Arrays_Lists_Indexing_ForEach.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Arrays_Lists_Indexing_ForEach/obj/Debug/net8.0/Arrays_Lists_Indexing_ForEach.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Arrays_Lists_Indexing_ForEach/obj/Debug/net8.0/Arrays_Lists_Indexing_ForEach.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Arrays_Lists_Indexing_ForEach/obj/Debug/net8.0/ref/Arrays_Lists_Indexing_ForEach.dll

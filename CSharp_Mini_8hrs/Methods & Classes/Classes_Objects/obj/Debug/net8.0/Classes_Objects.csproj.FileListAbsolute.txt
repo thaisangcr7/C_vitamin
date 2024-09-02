@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Classes_Objects/bin/Debug/net8.0/Classes_Objects
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Classes_Objects/bin/Debug/net8.0/Classes_Objects.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Classes_Objects/bin/Debug/net8.0/Classes_Objects.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Classes_Objects/bin/Debug/net8.0/Classes_Objects.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Classes_Objects/bin/Debug/net8.0/Classes_Objects.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Classes_Objects/obj/Debug/net8.0/Classes_Objects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Classes_Objects/obj/Debug/net8.0/Classes_Objects.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Classes_Objects/obj/Debug/net8.0/Classes_Objects.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Classes_Objects/obj/Debug/net8.0/Classes_Objects.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Classes_Objects/obj/Debug/net8.0/Classes_Objects.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Classes_Objects/obj/Debug/net8.0/Classes_Objects.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Classes_Objects/obj/Debug/net8.0/refint/Classes_Objects.dll
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Classes_Objects/obj/Debug/net8.0/Classes_Objects.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Classes_Objects/obj/Debug/net8.0/Classes_Objects.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Classes_Objects/obj/Debug/net8.0/ref/Classes_Objects.dll
