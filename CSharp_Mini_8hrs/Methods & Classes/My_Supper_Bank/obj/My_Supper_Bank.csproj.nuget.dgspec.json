@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/My_Supper_Bank.csproj": {}
+    "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/My_Supper_Bank/My_Supper_Bank.csproj": {}
   },
   "projects": {
-    "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/My_Supper_Bank.csproj": {
+    "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/My_Supper_Bank/My_Supper_Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/My_Supper_Bank.csproj",
+        "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/My_Supper_Bank/My_Supper_Bank.csproj",
         "projectName": "My_Supper_Bank",
-        "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/My_Supper_Bank.csproj",
+        "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/My_Supper_Bank/My_Supper_Bank.csproj",
         "packagesPath": "/Users/sangth/.nuget/packages/",
-        "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/My_Supper_Bank/obj/",
+        "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/My_Supper_Bank/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sangth/.nuget/NuGet/NuGet.Config"

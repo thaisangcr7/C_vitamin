@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("24. Excercise Odd _ Even Number Split")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6d3d8ea36ed04a5dfb5a341581bade83cd95983")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76f7bf01347fe30bfe35259e8d2e63392b1b31b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("24. Excercise Odd _ Even Number Split")]
 [assembly: System.Reflection.AssemblyTitleAttribute("24. Excercise Odd _ Even Number Split")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

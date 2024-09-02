@@ -12,6 +12,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Classes_Objects
-build_property.ProjectDir = /Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Classes_Objects/
+build_property.ProjectDir = /Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Classes_Objects/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false

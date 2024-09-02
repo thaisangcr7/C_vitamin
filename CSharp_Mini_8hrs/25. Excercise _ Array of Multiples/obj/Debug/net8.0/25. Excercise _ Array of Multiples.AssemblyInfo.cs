@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("25. Excercise _ Array of Multiples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a939e36298078a9d05c3de738e264e950f58a67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76f7bf01347fe30bfe35259e8d2e63392b1b31b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("25. Excercise _ Array of Multiples")]
 [assembly: System.Reflection.AssemblyTitleAttribute("25. Excercise _ Array of Multiples")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

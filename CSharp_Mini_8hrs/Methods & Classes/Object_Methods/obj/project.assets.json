@@ -111,11 +111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Object_Methods/Object_Methods.csproj",
+      "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Object_Methods/Object_Methods.csproj",
       "projectName": "Object_Methods",
-      "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Object_Methods/Object_Methods.csproj",
+      "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Object_Methods/Object_Methods.csproj",
       "packagesPath": "/Users/sangth/.nuget/packages/",
-      "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Object_Methods/obj/",
+      "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Object_Methods/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sangth/.nuget/NuGet/NuGet.Config"

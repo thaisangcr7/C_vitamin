@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("13. String Iteration Looping")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d236dd841fad1aa9bf4f28e16d5f1d41de2116e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76f7bf01347fe30bfe35259e8d2e63392b1b31b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("13. String Iteration Looping")]
 [assembly: System.Reflection.AssemblyTitleAttribute("13. String Iteration Looping")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("21. Array IndexOf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd405102e308993367f409094afeec91549d0a0d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76f7bf01347fe30bfe35259e8d2e63392b1b31b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("21. Array IndexOf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("21. Array IndexOf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

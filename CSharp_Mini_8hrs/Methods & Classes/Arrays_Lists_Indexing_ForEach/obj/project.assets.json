@@ -111,11 +111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Arrays_Lists_Indexing_ForEach/Arrays_Lists_Indexing_ForEach.csproj",
+      "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Arrays_Lists_Indexing_ForEach/Arrays_Lists_Indexing_ForEach.csproj",
       "projectName": "Arrays_Lists_Indexing_ForEach",
-      "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Arrays_Lists_Indexing_ForEach/Arrays_Lists_Indexing_ForEach.csproj",
+      "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Arrays_Lists_Indexing_ForEach/Arrays_Lists_Indexing_ForEach.csproj",
       "packagesPath": "/Users/sangth/.nuget/packages/",
-      "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Arrays_Lists_Indexing_ForEach/obj/",
+      "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Arrays_Lists_Indexing_ForEach/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sangth/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zfa/ZsSWQUg=",
+  "dgSpecHash": "3rxFVvlYDPw=",
   "success": true,
-  "projectFilePath": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/Static_Methods_Classes.csproj",
+  "projectFilePath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Static_Methods_Classes/Static_Methods_Classes.csproj",
   "expectedPackageFiles": [
     "/Users/sangth/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.7/microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512",
     "/Users/sangth/.nuget/packages/microsoft.net.illink.tasks/8.0.7/microsoft.net.illink.tasks.8.0.7.nupkg.sha512",

@@ -111,11 +111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Getters_Setters/Getters_Setters.csproj",
+      "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Getters_Setters/Getters_Setters.csproj",
       "projectName": "Getters_Setters",
-      "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Getters_Setters/Getters_Setters.csproj",
+      "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Getters_Setters/Getters_Setters.csproj",
       "packagesPath": "/Users/sangth/.nuget/packages/",
-      "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Getters_Setters/obj/",
+      "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Getters_Setters/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sangth/.nuget/NuGet/NuGet.Config"

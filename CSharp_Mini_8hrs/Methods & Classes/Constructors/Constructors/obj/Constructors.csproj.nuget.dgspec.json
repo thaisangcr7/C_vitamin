@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Constructors/Constructors/Constructors.csproj": {}
+    "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Constructors/Constructors/Constructors.csproj": {}
   },
   "projects": {
-    "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Constructors/Constructors/Constructors.csproj": {
+    "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Constructors/Constructors/Constructors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Constructors/Constructors/Constructors.csproj",
+        "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Constructors/Constructors/Constructors.csproj",
         "projectName": "Constructors",
-        "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Constructors/Constructors/Constructors.csproj",
+        "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Constructors/Constructors/Constructors.csproj",
         "packagesPath": "/Users/sangth/.nuget/packages/",
-        "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Constructors/Constructors/obj/",
+        "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Constructors/Constructors/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sangth/.nuget/NuGet/NuGet.Config"

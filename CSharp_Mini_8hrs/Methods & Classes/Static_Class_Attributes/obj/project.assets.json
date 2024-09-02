@@ -111,11 +111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Class_Attributes/Static_Class_Attributes.csproj",
+      "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Static_Class_Attributes/Static_Class_Attributes.csproj",
       "projectName": "Static_Class_Attributes",
-      "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Class_Attributes/Static_Class_Attributes.csproj",
+      "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Static_Class_Attributes/Static_Class_Attributes.csproj",
       "packagesPath": "/Users/sangth/.nuget/packages/",
-      "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Class_Attributes/obj/",
+      "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Static_Class_Attributes/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sangth/.nuget/NuGet/NuGet.Config"

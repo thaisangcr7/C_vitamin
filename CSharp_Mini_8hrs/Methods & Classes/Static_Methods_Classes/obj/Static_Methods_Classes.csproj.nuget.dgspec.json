@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/Static_Methods_Classes.csproj": {}
+    "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Static_Methods_Classes/Static_Methods_Classes.csproj": {}
   },
   "projects": {
-    "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/Static_Methods_Classes.csproj": {
+    "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Static_Methods_Classes/Static_Methods_Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/Static_Methods_Classes.csproj",
+        "projectUniqueName": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Static_Methods_Classes/Static_Methods_Classes.csproj",
         "projectName": "Static_Methods_Classes",
-        "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/Static_Methods_Classes.csproj",
+        "projectPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Static_Methods_Classes/Static_Methods_Classes.csproj",
         "packagesPath": "/Users/sangth/.nuget/packages/",
-        "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/Classes_Objects/Static_Methods_Classes/obj/",
+        "outputPath": "/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/Methods & Classes/Static_Methods_Classes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sangth/.nuget/NuGet/NuGet.Config"
