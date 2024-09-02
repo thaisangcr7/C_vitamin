@@ -13,46 +13,46 @@ class Program
        // ex1: 
             // decalare variable for an array:
 
-                // int[] numbers = new int[4];
+                int[] numbers = new int[4];
     
-                // numbers[0] = 5;
-                // numbers[1] = 10;
-                // numbers[2] = 115;  
-                // numbers[3] = 115;  
+                numbers[0] = 5;
+                numbers[1] = 10;
+                numbers[2] = 115;  
+                numbers[3] = 115;  
 
             // 
             // ask user to input into our numbers Array
 
-                // System.Console.WriteLine("Enter your number to store in our array: ");
-                // numbers[0] = Convert.ToInt32(Console.ReadLine());
+                System.Console.WriteLine("Enter your number to store in our array: ");
+                numbers[0] = Convert.ToInt32(Console.ReadLine());
 
-                // System.Console.WriteLine("Enter your number to store in our array: ");
-                // numbers[1] = Convert.ToInt32(Console.ReadLine());
+                System.Console.WriteLine("Enter your number to store in our array: ");
+                numbers[1] = Convert.ToInt32(Console.ReadLine());
 
-                // System.Console.WriteLine("Enter your number to store in our array: ");
-                // numbers[2] = Convert.ToInt32(Console.ReadLine());
+                System.Console.WriteLine("Enter your number to store in our array: ");
+                numbers[2] = Convert.ToInt32(Console.ReadLine());
 
-                //  System.Console.WriteLine("Enter your number to store in our array: ");
-                // numbers[3] = Convert.ToInt32(Console.ReadLine());
+                 System.Console.WriteLine("Enter your number to store in our array: ");
+                numbers[3] = Convert.ToInt32(Console.ReadLine());
 
             // Display the user input
-                //System.Console.WriteLine($"Your numbers in Array {numbers[0]} {numbers[1]} {numbers[2]} ");
+                System.Console.WriteLine($"Your numbers in Array {numbers[0]} {numbers[1]} {numbers[2]} ");
 
             // ====================================================
             // Let make it more dinamic using for loop to ask user to put in number 
             //=====================================================
             // Better way to display the array using For Loop
 
-                // for (int i = 0; i < numbers.Length; i++)
-                //     {
-                //         System.Console.WriteLine("Enter your number to store in our array: ");
-                //         numbers[i] = Convert.ToInt32(Console.ReadLine());
-                //     }
+                for (int i = 0; i < numbers.Length; i++)
+                    {
+                        System.Console.WriteLine("Enter your number to store in our array: ");
+                        numbers[i] = Convert.ToInt32(Console.ReadLine());
+                    }
                 
-                // for (int i = 0; i < numbers.Length; i++)
-                //     {
-                //         Console.Write($" {numbers[i]}");
-                //     }
+                for (int i = 0; i < numbers.Length; i++)
+                    {
+                        Console.Write($" {numbers[i]}");
+                    }
 
         // ex2: Powerful of using for loop for asking user to create his own Array
 

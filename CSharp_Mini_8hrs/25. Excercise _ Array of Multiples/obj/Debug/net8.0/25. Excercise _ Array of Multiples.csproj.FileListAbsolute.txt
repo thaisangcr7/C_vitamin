@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/25. Excercise _ Array of Multiples/bin/Debug/net8.0/25. Excercise _ Array of Multiples
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/25. Excercise _ Array of Multiples/bin/Debug/net8.0/25. Excercise _ Array of Multiples.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/25. Excercise _ Array of Multiples/bin/Debug/net8.0/25. Excercise _ Array of Multiples.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/25. Excercise _ Array of Multiples/bin/Debug/net8.0/25. Excercise _ Array of Multiples.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/25. Excercise _ Array of Multiples/bin/Debug/net8.0/25. Excercise _ Array of Multiples.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/25. Excercise _ Array of Multiples/obj/Debug/net8.0/25. Excercise _ Array of Multiples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/25. Excercise _ Array of Multiples/obj/Debug/net8.0/25. Excercise _ Array of Multiples.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/25. Excercise _ Array of Multiples/obj/Debug/net8.0/25. Excercise _ Array of Multiples.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/25. Excercise _ Array of Multiples/obj/Debug/net8.0/25. Excercise _ Array of Multiples.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/25. Excercise _ Array of Multiples/obj/Debug/net8.0/25. Excercise _ Array of Multiples.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/25. Excercise _ Array of Multiples/obj/Debug/net8.0/25. Excercise _ Array of Multiples.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/25. Excercise _ Array of Multiples/obj/Debug/net8.0/refint/25. Excercise _ Array of Multiples.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/25. Excercise _ Array of Multiples/obj/Debug/net8.0/25. Excercise _ Array of Multiples.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/25. Excercise _ Array of Multiples/obj/Debug/net8.0/25. Excercise _ Array of Multiples.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/25. Excercise _ Array of Multiples/obj/Debug/net8.0/ref/25. Excercise _ Array of Multiples.dll

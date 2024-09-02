@@ -13,21 +13,21 @@ class Program
 
         // For Loop 
         // def: print how many times we want
-            // for (int i = 0; i < 5; i++) // for(declear a new varibale, condition(run 5 times), task)
-            // {
-            //     Console.WriteLine("Hello for For_Loops");
-            // }
+            for (int i = 0; i < 5; i++) // for(declear a new varibale, condition(run 5 times), task)
+            {
+                Console.WriteLine("Hello for For_Loops");
+            }
 
-            // for (int i = 0; i < 5; i++) // for(declear a new varibale, condition(run 5 times), task)
-            // {
-            //     Console.WriteLine(i);
-            // }
+            for (int i = 0; i < 5; i++) // for(declear a new varibale, condition(run 5 times), task)
+            {
+                Console.WriteLine(i);
+            }
 
-            // // i = 0, if i less or equal 10, i increase by 2;
-            // for (int i = 0; i <= 10; i += 2)
-            // {
-            //     System.Console.WriteLine($"incement by 2: {i}");
-            // }
+            // i = 0, if i less or equal 10, i increase by 2;
+            for (int i = 0; i <= 10; i += 2)
+            {
+                System.Console.WriteLine($"incement by 2: {i}");
+            }
 
         // Excercise 1:
             // Ask the user " how many times do they want to say Hi" and ask for their input

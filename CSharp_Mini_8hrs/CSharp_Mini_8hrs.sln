@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23. Dictionary", "23. Dicti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24. Excercise Odd _ Even Number Split", "24. Excercise Odd _ Even Number Split\24. Excercise Odd _ Even Number Split.csproj", "{5C913D04-A74A-4B5F-934F-B652B70B5658}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25. Excercise _ Array of Multiples", "25. Excercise _ Array of Multiples\25. Excercise _ Array of Multiples.csproj", "{4AAE72BD-9242-4DB0-BBA6-B7FDAF087C9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{5C913D04-A74A-4B5F-934F-B652B70B5658}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C913D04-A74A-4B5F-934F-B652B70B5658}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C913D04-A74A-4B5F-934F-B652B70B5658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AAE72BD-9242-4DB0-BBA6-B7FDAF087C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAE72BD-9242-4DB0-BBA6-B7FDAF087C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAE72BD-9242-4DB0-BBA6-B7FDAF087C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAE72BD-9242-4DB0-BBA6-B7FDAF087C9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
