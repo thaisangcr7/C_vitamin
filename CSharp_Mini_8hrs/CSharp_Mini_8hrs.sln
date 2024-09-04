@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25. Excercise _ Array of Mu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. Methods or Functions", "26. Methods or Functions\26. Methods or Functions.csproj", "{B0A06AD3-F69F-4819-B85B-5D987FCCAA17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. Return Type Functions", "27. Return Type Functions\27. Return Type Functions.csproj", "{B972BD11-D57F-4A4B-B964-5A1BC94E964B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{B0A06AD3-F69F-4819-B85B-5D987FCCAA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0A06AD3-F69F-4819-B85B-5D987FCCAA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0A06AD3-F69F-4819-B85B-5D987FCCAA17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B972BD11-D57F-4A4B-B964-5A1BC94E964B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B972BD11-D57F-4A4B-B964-5A1BC94E964B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B972BD11-D57F-4A4B-B964-5A1BC94E964B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B972BD11-D57F-4A4B-B964-5A1BC94E964B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

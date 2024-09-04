@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/27. Return Type Functions/bin/Debug/net8.0/27. Return Type Functions
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/27. Return Type Functions/bin/Debug/net8.0/27. Return Type Functions.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/27. Return Type Functions/bin/Debug/net8.0/27. Return Type Functions.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/27. Return Type Functions/bin/Debug/net8.0/27. Return Type Functions.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/27. Return Type Functions/bin/Debug/net8.0/27. Return Type Functions.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/27. Return Type Functions/obj/Debug/net8.0/27. Return Type Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/27. Return Type Functions/obj/Debug/net8.0/27. Return Type Functions.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/27. Return Type Functions/obj/Debug/net8.0/27. Return Type Functions.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/27. Return Type Functions/obj/Debug/net8.0/27. Return Type Functions.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/27. Return Type Functions/obj/Debug/net8.0/27. Return Type Functions.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/27. Return Type Functions/obj/Debug/net8.0/27. Return Type Functions.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/27. Return Type Functions/obj/Debug/net8.0/refint/27. Return Type Functions.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/27. Return Type Functions/obj/Debug/net8.0/27. Return Type Functions.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/27. Return Type Functions/obj/Debug/net8.0/27. Return Type Functions.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/27. Return Type Functions/obj/Debug/net8.0/ref/27. Return Type Functions.dll
