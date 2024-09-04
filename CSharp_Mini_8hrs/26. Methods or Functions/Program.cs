@@ -1,5 +1,7 @@
 ﻿namespace _26._Methods_or_Functions;
 
+// Go to Methods & Classes Folder for more details
+
 class Program
 {
     // Methods or Functions 
@@ -18,6 +20,7 @@ class Program
         public void something()
         {
             System.Console.WriteLine("Hello");
+            
         }
     }
     
