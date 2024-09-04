@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("27. Return Type Functions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb68902f623fea666c339ef430c4cc8f359eb1d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f19717077e6a96286a6dcf6ccfddce469972f105")]
 [assembly: System.Reflection.AssemblyProductAttribute("27. Return Type Functions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("27. Return Type Functions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
