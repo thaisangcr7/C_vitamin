@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/29. Optional Parameters/bin/Debug/net8.0/29. Optional Parameters
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/29. Optional Parameters/bin/Debug/net8.0/29. Optional Parameters.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/29. Optional Parameters/bin/Debug/net8.0/29. Optional Parameters.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/29. Optional Parameters/bin/Debug/net8.0/29. Optional Parameters.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/29. Optional Parameters/bin/Debug/net8.0/29. Optional Parameters.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/29. Optional Parameters/obj/Debug/net8.0/29. Optional Parameters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/29. Optional Parameters/obj/Debug/net8.0/29. Optional Parameters.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/29. Optional Parameters/obj/Debug/net8.0/29. Optional Parameters.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/29. Optional Parameters/obj/Debug/net8.0/29. Optional Parameters.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/29. Optional Parameters/obj/Debug/net8.0/29. Optional Parameters.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/29. Optional Parameters/obj/Debug/net8.0/29. Optional Parameters.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/29. Optional Parameters/obj/Debug/net8.0/refint/29. Optional Parameters.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/29. Optional Parameters/obj/Debug/net8.0/29. Optional Parameters.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/29. Optional Parameters/obj/Debug/net8.0/29. Optional Parameters.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/29. Optional Parameters/obj/Debug/net8.0/ref/29. Optional Parameters.dll

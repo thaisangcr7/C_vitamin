@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. Return Type Functions",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. Function Parameters", "28. Function Parameters\28. Function Parameters.csproj", "{EED4569D-8A29-41B7-B245-D6EC97095927}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29. Optional Parameters", "29. Optional Parameters\29. Optional Parameters.csproj", "{561479DB-ECEE-417B-BB06-F6E9EFA7BA02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{EED4569D-8A29-41B7-B245-D6EC97095927}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EED4569D-8A29-41B7-B245-D6EC97095927}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EED4569D-8A29-41B7-B245-D6EC97095927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{561479DB-ECEE-417B-BB06-F6E9EFA7BA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561479DB-ECEE-417B-BB06-F6E9EFA7BA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561479DB-ECEE-417B-BB06-F6E9EFA7BA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561479DB-ECEE-417B-BB06-F6E9EFA7BA02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

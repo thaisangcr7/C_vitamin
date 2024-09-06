@@ -10,12 +10,18 @@ class Program
         // Function is only useful with parameters
 
         //ex 1: create function without parameter
-            System.Console.WriteLine(Add());
-
-            static int Add()
-            {
-                return 5 + 5;
-            }
+                // this a bad example of a function
+                System.Console.WriteLine(Add());
+                static int Add()
+                {
+                    return 5 + 5;
+                }
+                // better way
+                int Cal = AddNum(3,3);
+                static int AddNum(int a, int b)
+                {
+                    return a + b;
+                }
         
         // ex2: Create function with parameter
             // Call the function and add the parameter (5,6)
