@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. Function Parameters", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29. Optional Parameters", "29. Optional Parameters\29. Optional Parameters.csproj", "{561479DB-ECEE-417B-BB06-F6E9EFA7BA02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30. Named Patameters", "30. Named Patameters\30. Named Patameters.csproj", "{F60E2049-0670-4635-A609-0FB47AB578C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31. Out Parameters", "31. Out Parameters\31. Out Parameters.csproj", "{2D0B9832-0AD8-4866-8260-EC5FD2FD768B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +187,14 @@ Global
 		{561479DB-ECEE-417B-BB06-F6E9EFA7BA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{561479DB-ECEE-417B-BB06-F6E9EFA7BA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{561479DB-ECEE-417B-BB06-F6E9EFA7BA02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F60E2049-0670-4635-A609-0FB47AB578C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60E2049-0670-4635-A609-0FB47AB578C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60E2049-0670-4635-A609-0FB47AB578C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60E2049-0670-4635-A609-0FB47AB578C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D0B9832-0AD8-4866-8260-EC5FD2FD768B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0B9832-0AD8-4866-8260-EC5FD2FD768B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0B9832-0AD8-4866-8260-EC5FD2FD768B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D0B9832-0AD8-4866-8260-EC5FD2FD768B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
