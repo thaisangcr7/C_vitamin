@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30. Named Patameters", "30.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31. Out Parameters", "31. Out Parameters\31. Out Parameters.csproj", "{2D0B9832-0AD8-4866-8260-EC5FD2FD768B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32. Reference parameter", "32. Reference parameter\32. Reference parameter.csproj", "{FBFFCAB1-42F6-4FC7-95B0-F80ACF17752F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{2D0B9832-0AD8-4866-8260-EC5FD2FD768B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D0B9832-0AD8-4866-8260-EC5FD2FD768B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D0B9832-0AD8-4866-8260-EC5FD2FD768B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBFFCAB1-42F6-4FC7-95B0-F80ACF17752F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFFCAB1-42F6-4FC7-95B0-F80ACF17752F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFFCAB1-42F6-4FC7-95B0-F80ACF17752F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFFCAB1-42F6-4FC7-95B0-F80ACF17752F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
