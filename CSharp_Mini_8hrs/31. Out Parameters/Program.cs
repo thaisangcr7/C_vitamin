@@ -81,7 +81,7 @@ class Program
                     }
                 }
                 // Return true if the item was found, false otherwise
-                return index >-1;
+                return index >-1;d
             }
 
             // A custom TryParse function (not fully implemented)
