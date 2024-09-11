@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/33. Excercise  _  Area of a Triangle/bin/Debug/net8.0/33. Excercise  _  Area of a Triangle
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/33. Excercise  _  Area of a Triangle/bin/Debug/net8.0/33. Excercise  _  Area of a Triangle.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/33. Excercise  _  Area of a Triangle/bin/Debug/net8.0/33. Excercise  _  Area of a Triangle.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/33. Excercise  _  Area of a Triangle/bin/Debug/net8.0/33. Excercise  _  Area of a Triangle.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/33. Excercise  _  Area of a Triangle/bin/Debug/net8.0/33. Excercise  _  Area of a Triangle.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/33. Excercise  _  Area of a Triangle/obj/Debug/net8.0/33. Excercise  _  Area of a Triangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/33. Excercise  _  Area of a Triangle/obj/Debug/net8.0/33. Excercise  _  Area of a Triangle.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/33. Excercise  _  Area of a Triangle/obj/Debug/net8.0/33. Excercise  _  Area of a Triangle.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/33. Excercise  _  Area of a Triangle/obj/Debug/net8.0/33. Excercise  _  Area of a Triangle.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/33. Excercise  _  Area of a Triangle/obj/Debug/net8.0/33. Excercise  _  Area of a Triangle.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/33. Excercise  _  Area of a Triangle/obj/Debug/net8.0/33. Excercise  _  Area of a Triangle.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/33. Excercise  _  Area of a Triangle/obj/Debug/net8.0/refint/33. Excercise  _  Area of a Triangle.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/33. Excercise  _  Area of a Triangle/obj/Debug/net8.0/33. Excercise  _  Area of a Triangle.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/33. Excercise  _  Area of a Triangle/obj/Debug/net8.0/33. Excercise  _  Area of a Triangle.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/33. Excercise  _  Area of a Triangle/obj/Debug/net8.0/ref/33. Excercise  _  Area of a Triangle.dll

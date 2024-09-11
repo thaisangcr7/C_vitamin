@@ -67,6 +67,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31. Out Parameters", "31. O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32. Reference parameter", "32. Reference parameter\32. Reference parameter.csproj", "{FBFFCAB1-42F6-4FC7-95B0-F80ACF17752F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33. Excercise  _  Area of a Triangle", "33. Excercise  _  Area of a Triangle\33. Excercise  _  Area of a Triangle.csproj", "{8187A64D-B1A6-4889-9C15-DBB3C5758670}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34. Exercise _ Sum of Int Array", "34. Exercise _ Sum of Int Array\34. Exercise _ Sum of Int Array.csproj", "{B13D710B-01E3-4AFB-AC1F-66C810AC9D4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +205,14 @@ Global
 		{FBFFCAB1-42F6-4FC7-95B0-F80ACF17752F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBFFCAB1-42F6-4FC7-95B0-F80ACF17752F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBFFCAB1-42F6-4FC7-95B0-F80ACF17752F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8187A64D-B1A6-4889-9C15-DBB3C5758670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8187A64D-B1A6-4889-9C15-DBB3C5758670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8187A64D-B1A6-4889-9C15-DBB3C5758670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8187A64D-B1A6-4889-9C15-DBB3C5758670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B13D710B-01E3-4AFB-AC1F-66C810AC9D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13D710B-01E3-4AFB-AC1F-66C810AC9D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13D710B-01E3-4AFB-AC1F-66C810AC9D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13D710B-01E3-4AFB-AC1F-66C810AC9D4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
