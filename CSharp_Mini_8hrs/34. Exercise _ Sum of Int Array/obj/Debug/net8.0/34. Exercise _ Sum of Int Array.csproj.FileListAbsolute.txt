@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/34. Exercise _ Sum of Int Array/bin/Debug/net8.0/34. Exercise _ Sum of Int Array
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/34. Exercise _ Sum of Int Array/bin/Debug/net8.0/34. Exercise _ Sum of Int Array.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/34. Exercise _ Sum of Int Array/bin/Debug/net8.0/34. Exercise _ Sum of Int Array.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/34. Exercise _ Sum of Int Array/bin/Debug/net8.0/34. Exercise _ Sum of Int Array.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/34. Exercise _ Sum of Int Array/bin/Debug/net8.0/34. Exercise _ Sum of Int Array.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/34. Exercise _ Sum of Int Array/obj/Debug/net8.0/34. Exercise _ Sum of Int Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/34. Exercise _ Sum of Int Array/obj/Debug/net8.0/34. Exercise _ Sum of Int Array.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/34. Exercise _ Sum of Int Array/obj/Debug/net8.0/34. Exercise _ Sum of Int Array.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/34. Exercise _ Sum of Int Array/obj/Debug/net8.0/34. Exercise _ Sum of Int Array.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/34. Exercise _ Sum of Int Array/obj/Debug/net8.0/34. Exercise _ Sum of Int Array.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/34. Exercise _ Sum of Int Array/obj/Debug/net8.0/34. Exercise _ Sum of Int Array.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/34. Exercise _ Sum of Int Array/obj/Debug/net8.0/refint/34. Exercise _ Sum of Int Array.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/34. Exercise _ Sum of Int Array/obj/Debug/net8.0/34. Exercise _ Sum of Int Array.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/34. Exercise _ Sum of Int Array/obj/Debug/net8.0/34. Exercise _ Sum of Int Array.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/34. Exercise _ Sum of Int Array/obj/Debug/net8.0/ref/34. Exercise _ Sum of Int Array.dll

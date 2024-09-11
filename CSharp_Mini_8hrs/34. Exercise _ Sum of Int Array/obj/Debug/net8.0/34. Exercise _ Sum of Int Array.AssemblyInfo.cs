@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("34. Exercise _ Sum of Int Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5bd16d0d146b94826cdafe0e81c074bf65c85fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+883f40fad4873ff73ba3401acd74c9426d9338d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("34. Exercise _ Sum of Int Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("34. Exercise _ Sum of Int Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
