@@ -19,6 +19,7 @@ class Program
     */
     static void Main(string[] args)
     {
+        // First, let's try to convert a string to an int using a try-catch block
         // bool success = false;
         //     try
         //     {
@@ -32,31 +33,39 @@ class Program
         //     }
         // System.Console.WriteLine(success? "Yey" : "Oh No");
 
+
+        // Now, let's use a custom TryParse function to achieve the same result
         System.Console.WriteLine("Enter a number: ");
-        if (TryParse(System.Console.ReadLine(), out int result))
+        if (TryParse(System.Console.ReadLine(), out int result)) // Call our custom TryParse function
         {
-            System.Console.WriteLine("yey " + result);
+            System.Console.WriteLine("yey " + result); // If successful, print the result
         }
         else
         {
             System.Console.WriteLine("oh no");
         }
 
-        Console.ReadLine();
+        Console.ReadLine(); // Wait for the user to press Enter
 
     }
 
+/*
+    * This is our custom TryParse function
+    * It takes a string input and tries to convert it to an int
+    * If successful, it returns true and sets the out parameter to the result
+    * If not successful, it returns false and sets the out parameter to -1
+*/
         static bool TryParse(string input, out int result)
         {
-             result = -1;
+             result = -1; // Initialize the out parameter to -1
              try
              {
-                result = Convert.ToInt32(input);
-                return true;
+                result = Convert.ToInt32(input); // Try to convert the input to an int
+                return true; // If successful, return true
              }
              catch (Exception)
              {
-                return false;
+                return false; // If not successful, return false
              }
 
         }
