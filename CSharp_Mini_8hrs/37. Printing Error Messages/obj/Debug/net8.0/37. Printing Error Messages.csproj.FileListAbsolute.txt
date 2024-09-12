@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/37. Printing Error Messages/bin/Debug/net8.0/37. Printing Error Messages
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/37. Printing Error Messages/bin/Debug/net8.0/37. Printing Error Messages.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/37. Printing Error Messages/bin/Debug/net8.0/37. Printing Error Messages.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/37. Printing Error Messages/bin/Debug/net8.0/37. Printing Error Messages.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/37. Printing Error Messages/bin/Debug/net8.0/37. Printing Error Messages.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/37. Printing Error Messages/obj/Debug/net8.0/37. Printing Error Messages.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/37. Printing Error Messages/obj/Debug/net8.0/37. Printing Error Messages.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/37. Printing Error Messages/obj/Debug/net8.0/37. Printing Error Messages.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/37. Printing Error Messages/obj/Debug/net8.0/37. Printing Error Messages.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/37. Printing Error Messages/obj/Debug/net8.0/37. Printing Error Messages.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/37. Printing Error Messages/obj/Debug/net8.0/37. Printing Error Messages.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/37. Printing Error Messages/obj/Debug/net8.0/refint/37. Printing Error Messages.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/37. Printing Error Messages/obj/Debug/net8.0/37. Printing Error Messages.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/37. Printing Error Messages/obj/Debug/net8.0/37. Printing Error Messages.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/37. Printing Error Messages/obj/Debug/net8.0/ref/37. Printing Error Messages.dll

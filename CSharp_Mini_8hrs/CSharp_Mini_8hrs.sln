@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35. Exeption Handling", "35
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36. Try Catch _ Handle Exception", "36. Try Catch _ Handle Exception\36. Try Catch _ Handle Exception.csproj", "{69704EB1-2174-4A0B-88D4-8B87AC1EC883}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37. Printing Error Messages", "37. Printing Error Messages\37. Printing Error Messages.csproj", "{473CBFAB-325F-4102-A841-3E558F413B96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{69704EB1-2174-4A0B-88D4-8B87AC1EC883}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69704EB1-2174-4A0B-88D4-8B87AC1EC883}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69704EB1-2174-4A0B-88D4-8B87AC1EC883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473CBFAB-325F-4102-A841-3E558F413B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473CBFAB-325F-4102-A841-3E558F413B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473CBFAB-325F-4102-A841-3E558F413B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473CBFAB-325F-4102-A841-3E558F413B96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
