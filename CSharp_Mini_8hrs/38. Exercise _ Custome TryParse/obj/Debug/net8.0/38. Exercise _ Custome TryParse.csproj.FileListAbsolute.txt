@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/38. Exercise _ Custome TryParse/bin/Debug/net8.0/38. Exercise _ Custome TryParse
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/38. Exercise _ Custome TryParse/bin/Debug/net8.0/38. Exercise _ Custome TryParse.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/38. Exercise _ Custome TryParse/bin/Debug/net8.0/38. Exercise _ Custome TryParse.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/38. Exercise _ Custome TryParse/bin/Debug/net8.0/38. Exercise _ Custome TryParse.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/38. Exercise _ Custome TryParse/bin/Debug/net8.0/38. Exercise _ Custome TryParse.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/38. Exercise _ Custome TryParse/obj/Debug/net8.0/38. Exercise _ Custome TryParse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/38. Exercise _ Custome TryParse/obj/Debug/net8.0/38. Exercise _ Custome TryParse.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/38. Exercise _ Custome TryParse/obj/Debug/net8.0/38. Exercise _ Custome TryParse.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/38. Exercise _ Custome TryParse/obj/Debug/net8.0/38. Exercise _ Custome TryParse.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/38. Exercise _ Custome TryParse/obj/Debug/net8.0/38. Exercise _ Custome TryParse.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/38. Exercise _ Custome TryParse/obj/Debug/net8.0/38. Exercise _ Custome TryParse.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/38. Exercise _ Custome TryParse/obj/Debug/net8.0/refint/38. Exercise _ Custome TryParse.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/38. Exercise _ Custome TryParse/obj/Debug/net8.0/38. Exercise _ Custome TryParse.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/38. Exercise _ Custome TryParse/obj/Debug/net8.0/38. Exercise _ Custome TryParse.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/38. Exercise _ Custome TryParse/obj/Debug/net8.0/ref/38. Exercise _ Custome TryParse.dll
