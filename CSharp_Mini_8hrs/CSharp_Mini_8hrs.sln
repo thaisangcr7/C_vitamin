@@ -71,6 +71,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33. Excercise  _  Area of a
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34. Exercise _ Sum of Int Array", "34. Exercise _ Sum of Int Array\34. Exercise _ Sum of Int Array.csproj", "{B13D710B-01E3-4AFB-AC1F-66C810AC9D4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35. Exeption Handling", "35. Exeption Handling\35. Exeption Handling.csproj", "{DE4BFDC2-E613-476C-825F-0BBD6395CE67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36. Try Catch _ Handle Exception", "36. Try Catch _ Handle Exception\36. Try Catch _ Handle Exception.csproj", "{69704EB1-2174-4A0B-88D4-8B87AC1EC883}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +217,14 @@ Global
 		{B13D710B-01E3-4AFB-AC1F-66C810AC9D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B13D710B-01E3-4AFB-AC1F-66C810AC9D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B13D710B-01E3-4AFB-AC1F-66C810AC9D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4BFDC2-E613-476C-825F-0BBD6395CE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4BFDC2-E613-476C-825F-0BBD6395CE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4BFDC2-E613-476C-825F-0BBD6395CE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4BFDC2-E613-476C-825F-0BBD6395CE67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69704EB1-2174-4A0B-88D4-8B87AC1EC883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69704EB1-2174-4A0B-88D4-8B87AC1EC883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69704EB1-2174-4A0B-88D4-8B87AC1EC883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69704EB1-2174-4A0B-88D4-8B87AC1EC883}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

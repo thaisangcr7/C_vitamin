@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/36. Try Catch _ Handle Exception/bin/Debug/net8.0/36. Try Catch _ Handle Exception
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/36. Try Catch _ Handle Exception/bin/Debug/net8.0/36. Try Catch _ Handle Exception.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/36. Try Catch _ Handle Exception/bin/Debug/net8.0/36. Try Catch _ Handle Exception.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/36. Try Catch _ Handle Exception/bin/Debug/net8.0/36. Try Catch _ Handle Exception.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/36. Try Catch _ Handle Exception/bin/Debug/net8.0/36. Try Catch _ Handle Exception.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/36. Try Catch _ Handle Exception/obj/Debug/net8.0/36. Try Catch _ Handle Exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/36. Try Catch _ Handle Exception/obj/Debug/net8.0/36. Try Catch _ Handle Exception.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/36. Try Catch _ Handle Exception/obj/Debug/net8.0/36. Try Catch _ Handle Exception.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/36. Try Catch _ Handle Exception/obj/Debug/net8.0/36. Try Catch _ Handle Exception.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/36. Try Catch _ Handle Exception/obj/Debug/net8.0/36. Try Catch _ Handle Exception.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/36. Try Catch _ Handle Exception/obj/Debug/net8.0/36. Try Catch _ Handle Exception.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/36. Try Catch _ Handle Exception/obj/Debug/net8.0/refint/36. Try Catch _ Handle Exception.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/36. Try Catch _ Handle Exception/obj/Debug/net8.0/36. Try Catch _ Handle Exception.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/36. Try Catch _ Handle Exception/obj/Debug/net8.0/36. Try Catch _ Handle Exception.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/36. Try Catch _ Handle Exception/obj/Debug/net8.0/ref/36. Try Catch _ Handle Exception.dll
