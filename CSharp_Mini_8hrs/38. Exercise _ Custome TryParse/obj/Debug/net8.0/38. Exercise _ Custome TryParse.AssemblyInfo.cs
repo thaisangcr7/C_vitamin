@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("38. Exercise _ Custome TryParse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70b0860ddef0814939b50f27f6dd5d57ba9de028")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c10e994dfb6d49e861ea41faf91aeba62a4f6df")]
 [assembly: System.Reflection.AssemblyProductAttribute("38. Exercise _ Custome TryParse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("38. Exercise _ Custome TryParse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
