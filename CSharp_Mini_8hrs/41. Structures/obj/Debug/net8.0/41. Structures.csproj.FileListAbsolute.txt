@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/41. Structures/obj/Debug/net8.0/41. Structures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/41. Structures/obj/Debug/net8.0/41. Structures.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/41. Structures/obj/Debug/net8.0/41. Structures.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/41. Structures/obj/Debug/net8.0/41. Structures.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/41. Structures/obj/Debug/net8.0/41. Structures.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/41. Structures/bin/Debug/net8.0/41. Structures
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/41. Structures/bin/Debug/net8.0/41. Structures.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/41. Structures/bin/Debug/net8.0/41. Structures.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/41. Structures/bin/Debug/net8.0/41. Structures.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/41. Structures/bin/Debug/net8.0/41. Structures.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/41. Structures/obj/Debug/net8.0/41. Structures.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/41. Structures/obj/Debug/net8.0/refint/41. Structures.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/41. Structures/obj/Debug/net8.0/41. Structures.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/41. Structures/obj/Debug/net8.0/41. Structures.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/41. Structures/obj/Debug/net8.0/ref/41. Structures.dll

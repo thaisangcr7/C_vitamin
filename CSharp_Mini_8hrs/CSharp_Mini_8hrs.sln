@@ -81,6 +81,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38. Exercise _ Custome TryP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39. Debugging", "39. Debugging\39. Debugging.csproj", "{7D1E0E0F-D464-4952-B3C3-90160058EB15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40. Local and Auto Window", "40. Local and Auto Window\40. Local and Auto Window.csproj", "{8F85DB79-ECEF-467E-BC27-A7007355F356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41. Structures", "41. Structures\41. Structures.csproj", "{89853842-9810-487F-8828-D56AC3147305}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +247,14 @@ Global
 		{7D1E0E0F-D464-4952-B3C3-90160058EB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D1E0E0F-D464-4952-B3C3-90160058EB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D1E0E0F-D464-4952-B3C3-90160058EB15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F85DB79-ECEF-467E-BC27-A7007355F356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F85DB79-ECEF-467E-BC27-A7007355F356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F85DB79-ECEF-467E-BC27-A7007355F356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F85DB79-ECEF-467E-BC27-A7007355F356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89853842-9810-487F-8828-D56AC3147305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89853842-9810-487F-8828-D56AC3147305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89853842-9810-487F-8828-D56AC3147305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89853842-9810-487F-8828-D56AC3147305}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
