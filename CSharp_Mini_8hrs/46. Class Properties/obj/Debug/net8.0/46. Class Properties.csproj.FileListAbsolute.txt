@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/46. Class Properties/bin/Debug/net8.0/46. Class Properties
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/46. Class Properties/bin/Debug/net8.0/46. Class Properties.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/46. Class Properties/bin/Debug/net8.0/46. Class Properties.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/46. Class Properties/bin/Debug/net8.0/46. Class Properties.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/46. Class Properties/bin/Debug/net8.0/46. Class Properties.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/46. Class Properties/obj/Debug/net8.0/46. Class Properties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/46. Class Properties/obj/Debug/net8.0/46. Class Properties.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/46. Class Properties/obj/Debug/net8.0/46. Class Properties.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/46. Class Properties/obj/Debug/net8.0/46. Class Properties.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/46. Class Properties/obj/Debug/net8.0/46. Class Properties.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/46. Class Properties/obj/Debug/net8.0/46. Class Properties.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/46. Class Properties/obj/Debug/net8.0/refint/46. Class Properties.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/46. Class Properties/obj/Debug/net8.0/46. Class Properties.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/46. Class Properties/obj/Debug/net8.0/46. Class Properties.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/46. Class Properties/obj/Debug/net8.0/ref/46. Class Properties.dll
