@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/43. Class Function/bin/Debug/net8.0/43. Class Function
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/43. Class Function/bin/Debug/net8.0/43. Class Function.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/43. Class Function/bin/Debug/net8.0/43. Class Function.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/43. Class Function/bin/Debug/net8.0/43. Class Function.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/43. Class Function/bin/Debug/net8.0/43. Class Function.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/43. Class Function/obj/Debug/net8.0/43. Class Function.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/43. Class Function/obj/Debug/net8.0/43. Class Function.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/43. Class Function/obj/Debug/net8.0/43. Class Function.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/43. Class Function/obj/Debug/net8.0/43. Class Function.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/43. Class Function/obj/Debug/net8.0/43. Class Function.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/43. Class Function/obj/Debug/net8.0/43. Class Function.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/43. Class Function/obj/Debug/net8.0/refint/43. Class Function.dll
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/43. Class Function/obj/Debug/net8.0/43. Class Function.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/43. Class Function/obj/Debug/net8.0/43. Class Function.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/CSharp_Mini_8hrs/43. Class Function/obj/Debug/net8.0/ref/43. Class Function.dll
