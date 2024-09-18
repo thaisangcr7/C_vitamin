@@ -1,0 +1,15 @@
+/Users/sangth/Desktop/DEV/C_vitamin/C#_Projects/C#_Projects/bin/Debug/net8.0/C#_Projects
+/Users/sangth/Desktop/DEV/C_vitamin/C#_Projects/C#_Projects/bin/Debug/net8.0/C#_Projects.deps.json
+/Users/sangth/Desktop/DEV/C_vitamin/C#_Projects/C#_Projects/bin/Debug/net8.0/C#_Projects.runtimeconfig.json
+/Users/sangth/Desktop/DEV/C_vitamin/C#_Projects/C#_Projects/bin/Debug/net8.0/C#_Projects.dll
+/Users/sangth/Desktop/DEV/C_vitamin/C#_Projects/C#_Projects/bin/Debug/net8.0/C#_Projects.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/C#_Projects/C#_Projects/obj/Debug/net8.0/C#_Projects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangth/Desktop/DEV/C_vitamin/C#_Projects/C#_Projects/obj/Debug/net8.0/C#_Projects.AssemblyInfoInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/C#_Projects/C#_Projects/obj/Debug/net8.0/C#_Projects.AssemblyInfo.cs
+/Users/sangth/Desktop/DEV/C_vitamin/C#_Projects/C#_Projects/obj/Debug/net8.0/C#_Projects.csproj.CoreCompileInputs.cache
+/Users/sangth/Desktop/DEV/C_vitamin/C#_Projects/C#_Projects/obj/Debug/net8.0/C#_Projects.sourcelink.json
+/Users/sangth/Desktop/DEV/C_vitamin/C#_Projects/C#_Projects/obj/Debug/net8.0/C#_Projects.dll
+/Users/sangth/Desktop/DEV/C_vitamin/C#_Projects/C#_Projects/obj/Debug/net8.0/refint/C#_Projects.dll
+/Users/sangth/Desktop/DEV/C_vitamin/C#_Projects/C#_Projects/obj/Debug/net8.0/C#_Projects.pdb
+/Users/sangth/Desktop/DEV/C_vitamin/C#_Projects/C#_Projects/obj/Debug/net8.0/C#_Projects.genruntimeconfig.cache
+/Users/sangth/Desktop/DEV/C_vitamin/C#_Projects/C#_Projects/obj/Debug/net8.0/ref/C#_Projects.dll
