@@ -84,67 +84,67 @@ class Program
                 If they are not, Print "Passwords do not match"
             If they are empty, Print " please enter a password."
         */
-            // // While LOOP 
+            // While LOOP 
 
-            // string password3, password4;
+            string password3, password4;
 
-            // // Use a while loop to ensure password3 is not empty
-            // while (true)
-            // {
-            //     Console.WriteLine("Enter your password 3: ");
-            //     password3 = Console.ReadLine();
+            // Use a while loop to ensure password3 is not empty
+            while (true)
+            {
+                Console.WriteLine("Enter your password 3: ");
+                password3 = Console.ReadLine();
 
-            //     if (!password3.Equals(string.Empty))
-            //     {
-            //         break; // exit the loop if password1 is not empty
-            //     }
-            //     else
-            //     {
-            //         Console.WriteLine("Please enter a password 3.");
-            //     }
-            // }
+                if (!password3.Equals(string.Empty))
+                {
+                    break; // exit the loop if password1 is not empty
+                }
+                else
+                {
+                    Console.WriteLine("Please enter a password 3.");
+                }
+            }
 
-            // // Use a while loop to ensure password4 is not empty
-            // while (true)
-            // {
-            //     Console.WriteLine("Enter your password 4: ");
-            //     password4 = Console.ReadLine();
+            // Use a while loop to ensure password4 is not empty
+            while (true)
+            {
+                Console.WriteLine("Enter your password 4: ");
+                password4 = Console.ReadLine();
 
-            //     if (!password4.Equals(string.Empty))
-            //     {
-            //         break; // exit the loop if password4 is not empty
-            //     }
-            //     else
-            //     {
-            //         Console.WriteLine("Please enter a password 4.");
-            //     }
-            // }
+                if (!password4.Equals(string.Empty))
+                {
+                    break; // exit the loop if password4 is not empty
+                }
+                else
+                {
+                    Console.WriteLine("Please enter a password 4.");
+                }
+            }
 
-            // // Now that we have non-empty passwords, check if they match
+            // Now that we have non-empty passwords, check if they match
 
-            //  if (!password3.Equals(string.Empty) && !password4.Equals(string.Empty))   
-            //     {
-            //         // make a restriction on lengeth
-            //         if (password3.Length >= 6 && password4.Length >=6)
-            //             {
-            //                 if(password3.Equals(password4))
-            //                 {
-            //                     System.Console.WriteLine(" PW 3 4 match");
-            //                 }
-            //                 else
-            //                 {
-            //                     System.Console.WriteLine("Pw 3 4 is not match");
-            //                 }
-            //             }
-            //         else
-            //         {
-            //             System.Console.WriteLine("Password must be at least 6 characters long");
-            //         }
-            //     }
-            //     else
-            //     {
-            //         Console.WriteLine("Please re-Enter your passwords again");
-            //     }
+             if (!password3.Equals(string.Empty) && !password4.Equals(string.Empty))   
+                {
+                    // make a restriction on lengeth
+                    if (password3.Length >= 6 && password4.Length >=6)
+                        {
+                            if(password3.Equals(password4))
+                            {
+                                System.Console.WriteLine(" PW 3 4 match");
+                            }
+                            else
+                            {
+                                System.Console.WriteLine("Pw 3 4 is not match");
+                            }
+                        }
+                    else
+                    {
+                        System.Console.WriteLine("Password must be at least 6 characters long");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Please re-Enter your passwords again");
+                }
 
 
     }
