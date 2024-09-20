@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 using System.Xml.XPath;
 
 
-namespace _1.How_To_Make_A_Calculator;
+namespace _1.How_To_Make_A_Calculator
+{
 
 class Program
 {
@@ -19,10 +20,9 @@ class Program
 
     static void Main(string[] args)
     {
-        int num1;
-        int num2;
+        int num1, num2, result = 0;
         string? answer;
-        int result;
+      
         
         System.Console.WriteLine("Hello, Let's create calculator");
         
@@ -32,10 +32,24 @@ class Program
         System.Console.WriteLine("Please Enter Your Number 2: ");
         num2 = Convert.ToInt32(Console.ReadLine());
 
-        System.Console.WriteLine("what type of operation would you like to do?");
+        while (true)
+        {
+            System.Console.WriteLine("what type of operation would you like to do?");
 
-        System.Console.WriteLine("Please Enter a for addition,s for subtraction, m for multiplication or d for division.");
-        answer = Console.ReadLine();
+            System.Console.WriteLine("Please Enter a for addition,s for subtraction, m for multiplication or d for division.");
+            answer = Console.ReadLine();
+
+            if (answer == "a" || answer == "s" || answer == "m" || answer == "d")
+            {
+                break;
+            }
+            else
+            {
+                System.Console.WriteLine("Invalid input. Please enter a, s, m or d.");
+            }
+
+        }
+
 
         if (answer == "a")
         {
@@ -59,7 +73,7 @@ class Program
         }
 
 
-         
+        System.Console.WriteLine(result);
         
 
 
@@ -67,4 +81,6 @@ class Program
         Console.ReadLine();
 
     }
+}
+
 }
