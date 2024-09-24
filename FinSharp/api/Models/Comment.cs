@@ -2,24 +2,23 @@ using System;
 
 namespace api.Models
 {
-
     public class Comment
     {
-        // link the comment with stock with Convention 
-        // to form the relationship
         public int ID { get; set; }
-        public string Title { get; set; } = string.Empty; // title for comments
+
+        // Initialize to avoid null
+        public string Title { get; set; } = string.Empty;
+
+        // Initialize to avoid null
         public string Content { get; set; } = string.Empty;
 
-        public DateTime  CreateOn { get; set; } = DateTime.Now;
+        // Set default value for DateTime
+        public DateTime CreatedOn { get; set; } = DateTime.Now;
 
-        public int? StockId { get; set; } // key
-        // Navigation
-        // Navigate within our model and relationship
-        public Stocks? Stocks { get; set;} // this is the navigation property allow us to access the properties
- 
+        // Foreign key is nullable to handle cases where there’s no related stock initially
+        public int? StockId { get; set; } 
 
+        // Navigation property is nullable since there might not always be a related Stock
+        public Stocks? Stocks { get; set; } 
     }
-
-
 }
