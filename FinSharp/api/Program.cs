@@ -11,11 +11,11 @@ builder.Services.AddSwaggerGen();
 // -- Sang
 // Add before builder.Build()
 // Pass in our DbContext that we built in Data folder
-builder.Services.AddDbContext<ApplicationABContexts>(options => 
+builder.Services.AddDbContext<ApplicationDBContexts>(options => 
     // plug in the data base that I want to use
-    
+
     {
-        options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnect"));
+        options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
     });
 
 var app = builder.Build();
