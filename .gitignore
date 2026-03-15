@@ -1,1 +1,49 @@
+## .NET / C# build artifacts
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.cache
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.ncrunchproject
+
+## NuGet packages
+*.nupkg
+*.snupkg
+[Pp]ackages/
+!**/[Pp]ackages/build/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.xml
+
+## Visual Studio
+.vs/
+*.user
+*.userosscache
+*.rsuser
+*.sln.docstates
+[Tt]humbs.db
+
+## JetBrains Rider
+.idea/
+
+## VS Code (optional — uncomment if you prefer not to commit .vscode)
+# .vscode/
+
+## macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
